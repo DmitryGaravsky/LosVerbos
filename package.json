@@ -1,0 +1,9 @@
+{
+  "name": "losverbos",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Los Verbos - Spanish verb conjugation trainer",
+  "scripts": {
+    "build": "node scripts/inline.js"
+  }
+}

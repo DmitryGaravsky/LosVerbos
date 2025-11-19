@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "tra[er]",
+  "translations": ["to bring"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "traer"
+  },
+  "emoji": "🎒",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "traig[o]", "ru": "**Я приношу** образцы на каждую встречу.", "eng": "**I bring** samples to every meeting." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tra[es]", "ru": "**Ты приносишь** кофе команде утром.", "eng": "**You bring** coffee to the team in the morning." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tra[e]", "ru": "**Он приносит** свежие отчёты на совещания.", "eng": "**He brings** fresh reports to the meetings." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "tra[emos]", "ru": "**Мы приносим** презентации в печатном виде.", "eng": "**We bring** the presentations in print." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tra[éis]", "ru": "**Вы приносите** подарки клиентам в конце года.", "eng": "**You all bring** gifts to the clients at the end of the year." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tra[en]", "ru": "**Они приносят** новые идеи на каждую встречу.", "eng": "**They bring** new ideas to every meeting." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "traj[e]", "ru": "**Вчера я принёс** макеты на проверку.", "eng": "Yesterday **I brought** the mockups for review." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "traj[iste]", "ru": "**Вчера ты принёс** оборудование к сцене.", "eng": "Yesterday **you brought** the equipment to the stage." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "traj[o]", "ru": "**Вчера он принёс** документы от партнёров.", "eng": "Yesterday **he brought** the documents from the partners." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "traj[imos]", "ru": "**Вчера мы принесли** материалы в штаб.", "eng": "Yesterday **we brought** the materials to headquarters." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "traj[isteis]", "ru": "**Вчера вы принесли** сувениры из поездки.", "eng": "Yesterday **you all brought** souvenirs from the trip." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "traj[eron]", "ru": "**Вчера они принесли** результаты опроса.", "eng": "Yesterday **they brought** the survey results." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "traer[é]", "ru": "**Завтра я принесу** новейшую статистику.", "eng": "Tomorrow **I will bring** the latest statistics." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "traer[ás]", "ru": "**Завтра ты принесёшь** дополнительное оборудование.", "eng": "Tomorrow **you will bring** the extra equipment." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "traer[á]", "ru": "**Завтра он принесёт** обновлённые контракты.", "eng": "Tomorrow **he will bring** the updated contracts." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "traer[emos]", "ru": "**Завтра мы принесём** стенды на выставку.", "eng": "Tomorrow **we will bring** the stands to the exhibition." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "traer[éis]", "ru": "**Завтра вы принесёте** образцы в лабораторию.", "eng": "Tomorrow **you all will bring** the samples to the lab." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "traer[án]", "ru": "**Завтра они принесут** оборудование на площадку.", "eng": "Tomorrow **they will bring** the equipment to the venue." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "tra[ía]", "ru": "**Раньше я приносил** отчёты каждое утро.", "eng": "**I used to bring** reports every morning." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tra[ías]", "ru": "**Раньше ты приносил** фрукты для команды.", "eng": "**You used to bring** fruit for the team." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tra[ía]", "ru": "**Раньше он приносил** принтерные картриджи.", "eng": "**He used to bring** printer cartridges." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "tra[íamos]", "ru": "**Раньше мы приносили** буклеты на каждую ярмарку.", "eng": "**We used to bring** brochures to every fair." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tra[íais]", "ru": "**Раньше вы приносили** оборудование из склада.", "eng": "**You all used to bring** equipment from the warehouse." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tra[ían]", "ru": "**Раньше они приносили** сувениры клиентам.", "eng": "**They used to bring** gifts to the clients." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] traído", "ru": "**Я уже принёс** оборудование в студию.", "eng": "**I have already brought** the equipment to the studio." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] traído", "ru": "**Ты уже принёс** документы для подписи.", "eng": "**You have already brought** the documents for signing." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] traído", "ru": "**Он уже принёс** макет на согласование.", "eng": "**He has already brought** the mockup for approval." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] traído", "ru": "**Мы уже принесли** дополнительные кресла.", "eng": "**We have already brought** the extra chairs." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] traído", "ru": "**Вы уже принесли** подарки в конференц-зал.", "eng": "**You all have already brought** the gifts to the conference room." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] traído", "ru": "**Они уже принесли** сертификаты на стойку.", "eng": "**They have already brought** the certificates to the desk." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con traer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tr[ae]", "ru": "**Принеси** протокол на стол, пожалуйста.", "eng": "**Bring** the minutes to the desk, please." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tra[iga]", "ru": "Пожалуйста, **принесите** образцы в лабораторию.", "eng": "Please **bring** the samples to the lab." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "traig[amos]", "ru": "**Давайте принесём** оборудование в зал заранее.", "eng": "**Let's bring** the equipment to the hall in advance." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tr[aed]", "ru": "**Принесите** каталоги на стойку регистрации.", "eng": "**Bring** the catalogs to the registration desk." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "traig[an]", "ru": "Пожалуйста, **принесите** документы к началу встречи.", "eng": "Please **bring** the documents by the start of the meeting." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con traer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no tra[igas]", "ru": "**Не приноси** лишние устройства на стол.", "eng": "**Don't bring** extra devices to the desk." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no tra[iga]", "ru": "Пожалуйста, **не приносите** непроверённые данные.", "eng": "Please **don't bring** unverified data." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no traig[amos]", "ru": "**Давайте не будем приносить** старые образцы.", "eng": "**Let's not bring** the old samples." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no traig[áis]", "ru": "**Не приносите** бумаги без печати.", "eng": "**Don't bring** papers without the stamp." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no traig[an]", "ru": "**Не приносите** оборудование без регистрации.", "eng": "**Don't bring** equipment without registration." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "tra[iga]", "ru": "Важно, **чтобы я принёс** ключи завтра.", "eng": "It is important that **I bring** the keys tomorrow." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tra[igas]", "ru": "Важно, **чтобы ты принёс** подтверждения участников.", "eng": "It is important that **you bring** the attendees' confirmations." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tra[iga]", "ru": "Важно, **чтобы он принёс** оригиналы договоров.", "eng": "It is important that **he bring** the original contracts." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "traig[amos]", "ru": "Важно, **чтобы мы принесли** оборудование вовремя.", "eng": "It is important that **we bring** the equipment on time." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "traig[áis]", "ru": "Важно, **чтобы вы принесли** презентации в печатном виде.", "eng": "It is important that **you all bring** the presentations printed." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tra[igan]", "ru": "Важно, **чтобы они принесли** образцы к открытию.", "eng": "It is important that **they bring** the samples for the opening." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] traído", "ru": "**Жаль, что я уже принёс** неверные схемы.", "eng": "It is a pity that **I have already brought** the wrong diagrams." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] traído", "ru": "**Жаль, что ты уже принёс** лишние документы.", "eng": "It is a pity that **you have already brought** the extra documents." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] traído", "ru": "**Жаль, что он уже принёс** устаревшие данные.", "eng": "It is a pity that **he has already brought** outdated data." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] traído", "ru": "**Жаль, что мы уже принесли** стенды без инструкций.", "eng": "It is a pity that **we have already brought** the stands without instructions." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] traído", "ru": "**Жаль, что вы уже принесли** отчёты не в том формате.", "eng": "It is a pity that **you all have already brought** the reports in the wrong format." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] traído", "ru": "**Жаль, что они уже принесли** образцы без маркировки.", "eng": "It is a pity that **they have already brought** the samples without labels." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for traer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "traj[era]", "ru": "**Если бы я приносил** отчёты без ошибок.", "eng": "If only **I brought** the reports without mistakes." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "traj[eras]", "ru": "**Если бы ты приносил** документы заранее.", "eng": "If **you brought** the documents in advance." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "traj[era]", "ru": "**Если бы он приносил** образцы вовремя.", "eng": "If **he brought** the samples on time." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "traj[éramos]", "ru": "**Если бы мы приносили** оборудование чаще.", "eng": "If **we brought** the equipment more often." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "traj[erais]", "ru": "**Если бы вы приносили** материалы с подписью.", "eng": "If **you all brought** the materials signed." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "traj[eran]", "ru": "**Если бы они приносили** отчёты на бумаге.", "eng": "If **they brought** the reports on paper." }
+      ]
+    }
+  ]
+}

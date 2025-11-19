@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "sab[er]",
+  "translations": ["to know"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "saber"
+  },
+  "emoji": "🧠",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "s[é]", "ru": "**Я знаю** все детали проекта.", "eng": "**I know** all the project details." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sab[es]", "ru": "**Ты знаешь** расписание мероприятия.", "eng": "**You know** the event schedule." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sab[e]", "ru": "**Он знает**, как решить задачу.", "eng": "**He knows** how to solve the task." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sab[emos]", "ru": "**Мы знаем** требования клиента.", "eng": "**We know** the client's requirements." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sab[éis]", "ru": "**Вы знаете** последние новости.", "eng": "**You all know** the latest news." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sab[en]", "ru": "**Они знают**, кто отвечает за отчёт.", "eng": "**They know** who is responsible for the report." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sup[e]", "ru": "**Вчера я узнал** детали бюджета.", "eng": "Yesterday **I learned** the budget details." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sup[iste]", "ru": "**Вчера ты узнал** результаты опроса.", "eng": "Yesterday **you learned** the survey results." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sup[o]", "ru": "**Вчера он узнал**, кто будет выступать.", "eng": "Yesterday **he found out** who would speak." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sup[imos]", "ru": "**Вчера мы узнали** окончательные цифры.", "eng": "Yesterday **we found out** the final numbers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sup[isteis]", "ru": "**Вчера вы узнали** решение клиента.", "eng": "Yesterday **you all learned** the client's decision." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sup[ieron]", "ru": "**Вчера они узнали** все подробности.", "eng": "Yesterday **they found out** all the details." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sabr[é]", "ru": "Скоро **я узнаю** результаты тендера.", "eng": "I will soon **know** the tender results." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sabr[ás]", "ru": "Скоро **ты узнаешь** о новых задачах.", "eng": "You will soon **know** about the new tasks." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sabr[á]", "ru": "Скоро **он узнает** обо всех изменениях.", "eng": "He will soon **know** about all the changes." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sabr[emos]", "ru": "Скоро **мы узнаем** дату запуска.", "eng": "We will soon **know** the launch date." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sabr[éis]", "ru": "Скоро **вы узнаете** расписание докладов.", "eng": "You all will soon **know** the talk schedule." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sabr[án]", "ru": "Скоро **они узнают** условия контракта.", "eng": "They will soon **know** the contract terms." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sab[ía]", "ru": "**Раньше я знал** всех коллег по имени.", "eng": "**I used to know** every colleague by name." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sab[ías]", "ru": "**Раньше ты знал** все номера заказов.", "eng": "**You used to know** all the order numbers." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sab[ía]", "ru": "**Раньше он знал** расположение каждого отдела.", "eng": "**He used to know** the location of every department." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sab[íamos]", "ru": "**Раньше мы знали** всех клиентов лично.", "eng": "**We used to know** all the clients personally." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sab[íais]", "ru": "**Раньше вы знали** каждый этап процесса.", "eng": "**You all used to know** every step of the process." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sab[ían]", "ru": "**Раньше они знали** все внутренние правила.", "eng": "**They used to know** all the internal rules." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] sabido", "ru": "**Я уже узнал**, кто будет докладывать.", "eng": "**I have already known** who will present." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] sabido", "ru": "**Ты уже узнал** пароль от системы.", "eng": "**You have already known** the system password." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] sabido", "ru": "**Он уже узнал** время встречи.", "eng": "**He has already known** the meeting time." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] sabido", "ru": "**Мы уже узнали** финальный бюджет.", "eng": "**We have already known** the final budget." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] sabido", "ru": "**Вы уже узнали** имя нового менеджера.", "eng": "**You all have already known** the name of the new manager." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] sabido", "ru": "**Они уже узнали** результаты проверки.", "eng": "**They have already known** the audit results." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con saber.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sab[e]", "ru": "**Знай** детали проекта перед встречей.", "eng": "**Know** the project details before the meeting." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sep[a]", "ru": "Пожалуйста, **узнайте** последние обновления.", "eng": "Please **know** the latest updates." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sep[amos]", "ru": "**Давайте узнаем** требования клиента заранее.", "eng": "**Let's know** the client's requirements ahead of time." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sab[ed]", "ru": "**Знайте** регламент перед запуском.", "eng": "**Know** the regulations before the launch." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sep[an]", "ru": "**Узнайте** ключевые риски перед встречей.", "eng": "**Know** the key risks before the meeting." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con saber.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no sep[as]", "ru": "**Не знай** только часть информации — собери всё.", "eng": "**Don't know** just part of the info—gather it all." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no sep[a]", "ru": "Пожалуйста, **не знайте** ответов поверхностно.", "eng": "Please **don't know** the answers superficially." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no sep[amos]", "ru": "**Давайте не будем знать** данные из слухов.", "eng": "**Let's not know** the data from rumors." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no sep[áis]", "ru": "**Не знайте** информацию без проверки.", "eng": "**Don't know** the information without verifying it." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no sep[an]", "ru": "**Не знайте** детали, основанные на догадках.", "eng": "**Don't know** details based on guesses." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sep[a]", "ru": "Важно, **чтобы я знал** точную дату.", "eng": "It is important that **I know** the exact date." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sep[as]", "ru": "Важно, **чтобы ты знал** план выступления.", "eng": "It is important that **you know** the presentation plan." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sep[a]", "ru": "Важно, **чтобы он знал** контакты поставщиков.", "eng": "It is important that **he know** the suppliers' contacts." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sep[amos]", "ru": "Важно, **чтобы мы знали** стратегию компании.", "eng": "It is important that **we know** the company strategy." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sep[áis]", "ru": "Важно, **чтобы вы знали** ключевые сроки.", "eng": "It is important that **you all know** the key deadlines." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sep[an]", "ru": "Важно, **чтобы они знали** критерии оценки.", "eng": "It is important that **they know** the evaluation criteria." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] sabido", "ru": "**Жаль, что я уже узнал** новость слишком поздно.", "eng": "It is a pity that **I have already known** the news too late." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] sabido", "ru": "**Жаль, что ты уже узнал** об ошибке от клиентов.", "eng": "It is a pity that **you have already known** about the mistake from the clients." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] sabido", "ru": "**Жаль, что он уже узнал** это через прессу.", "eng": "It is a pity that **he has already known** it through the press." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] sabido", "ru": "**Жаль, что мы уже узнали** новости из слухов.", "eng": "It is a pity that **we have already known** the news from rumors." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] sabido", "ru": "**Жаль, что вы уже узнали** информацию с опозданием.", "eng": "It is a pity that **you all have already known** the information with a delay." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] sabido", "ru": "**Жаль, что они уже узнали** новости не у нас.", "eng": "It is a pity that **they have already known** the news not from us." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for saber.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sup[iera]", "ru": "**Если бы я знал** об этом раньше.", "eng": "If only **I knew** about it earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sup[ieras]", "ru": "**Если бы ты знал** о рисках заранее.", "eng": "If **you knew** about the risks in advance." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sup[iera]", "ru": "**Если бы он знал** правильный ответ.", "eng": "If **he knew** the correct answer." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sup[iéramos]", "ru": "**Если бы мы знали**, что клиент сменился.", "eng": "If **we knew** that the client had changed." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sup[ierais]", "ru": "**Если бы вы знали** об изменениях процесса.", "eng": "If **you all knew** about the process changes." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sup[ieran]", "ru": "**Если бы они знали**, что встречу перенесли.", "eng": "If **they knew** that the meeting was moved." }
+      ]
+    }
+  ]
+}

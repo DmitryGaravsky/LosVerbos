@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "quer[er]",
+  "translations": ["to want", "to love"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "querer"
+  },
+  "emoji": "❤️",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "quier[o]", "ru": "**Я хочу** чашку кофе.", "eng": "**I want** a cup of coffee." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quier[es]", "ru": "**Ты хочешь** посмотреть фильм.", "eng": "**You want** to watch a movie." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quier[e]", "ru": "**Он хочет** поехать в Мадрид.", "eng": "**He wants** to go to Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quer[emos]", "ru": "**Мы хотим** начать проект.", "eng": "**We want** to start the project." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quer[éis]", "ru": "**Вы хотите** изучать испанский.", "eng": "**You all want** to study Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quier[en]", "ru": "**Они хотят** новые идеи.", "eng": "**They want** new ideas." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "quis[e]", "ru": "**Вчера я захотел** изменить маршрут.", "eng": "Yesterday **I wanted to** change the route." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quis[iste]", "ru": "**Вчера ты захотел** остаться дома.", "eng": "Yesterday **you wanted to** stay at home." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quis[o]", "ru": "**Вчера он захотел** купить билеты.", "eng": "Yesterday **he wanted to** buy tickets." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quis[imos]", "ru": "**Вчера мы захотели** встретиться позднее.", "eng": "Yesterday **we wanted to** meet later." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quis[isteis]", "ru": "**Вчера вы захотели** устроить перерыв.", "eng": "Yesterday **you all wanted to** take a break." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quis[ieron]", "ru": "**Вчера они захотели** обсудить условия.", "eng": "Yesterday **they wanted to** discuss the terms." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "querr[é]", "ru": "**Завтра я захочу** попробовать меню.", "eng": "Tomorrow **I will want to** try the menu." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "querr[ás]", "ru": "**Завтра ты захочешь** поговорить со мной.", "eng": "Tomorrow **you will want to** talk with me." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "querr[á]", "ru": "**Завтра он захочет** сделать перерыв.", "eng": "Tomorrow **he will want to** take a break." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "querr[emos]", "ru": "**Завтра мы захотим** поделиться новостями.", "eng": "Tomorrow **we will want to** share the news." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "querr[éis]", "ru": "**Завтра вы захотите** обсудить план.", "eng": "Tomorrow **you all will want to** discuss the plan." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "querr[án]", "ru": "**Завтра они захотят** поехать в центр.", "eng": "Tomorrow **they will want to** go downtown." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "quer[ía]", "ru": "**Раньше я хотел** стать переводчиком.", "eng": "**I used to want to** become a translator." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quer[ías]", "ru": "**Раньше ты хотел** жить у моря.", "eng": "**You used to want to** live by the sea." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quer[ía]", "ru": "**Раньше он хотел** открыть кафе.", "eng": "**He used to want to** open a café." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quer[íamos]", "ru": "**Раньше мы хотели** путешествовать чаще.", "eng": "**We used to want to** travel more often." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quer[íais]", "ru": "**Раньше вы хотели** учиться вместе.", "eng": "**You all used to want to** study together." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quer[ían]", "ru": "**Раньше они хотели** сменить работу.", "eng": "**They used to want to** change jobs." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] querido", "ru": "**Я уже хотел** поговорить об этом раньше.", "eng": "**I have already wanted to** talk about this before." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] querido", "ru": "**Ты уже хотел** поменять расписание.", "eng": "**You have already wanted to** change the schedule." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] querido", "ru": "**Он уже хотел** позвонить клиенту.", "eng": "**He has already wanted to** call the client." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] querido", "ru": "**Мы уже хотели** расширить команду.", "eng": "**We have already wanted to** expand the team." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] querido", "ru": "**Вы уже хотели** начать курс.", "eng": "**You all have already wanted to** start the course." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] querido", "ru": "**Они уже хотели** переехать вместе.", "eng": "**They have already wanted to** move together." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con querer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quier[e]", "ru": "**Полюби** этот вызов.", "eng": "**Love** this challenge." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quier[a]", "ru": "**Полюбите** новую идею, пожалуйста.", "eng": "**Love** the new idea, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quer[amos]", "ru": "**Давайте захотим** лучшего будущего.", "eng": "**Let's want** a better future." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quer[ed]", "ru": "**Желайте** успеха друг другу.", "eng": "**Wish** success for one another." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quier[an]", "ru": "**Желайте** смелых решений.", "eng": "**Desire** bold decisions." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con querer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no quier[as]", "ru": "**Не желай** лёгких путей.", "eng": "**Don't want** the easy way out." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no quier[a]", "ru": "Пожалуйста, **не желайте** поспешных выводов.", "eng": "Please **don't want** hasty conclusions." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no quer[amos]", "ru": "**Давайте не будем желать** конфликта.", "eng": "**Let's not wish** for conflict." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no quer[áis]", "ru": "**Не желайте** коротких решений.", "eng": "**Don't want** shortcut solutions." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no quier[an]", "ru": "**Не желайте** чужих провалов.", "eng": "**Don't wish** for others to fail." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "quier[a]", "ru": "Важно, **чтобы я хотел** перемен.", "eng": "It is important that **I want** change." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quier[as]", "ru": "Важно, **чтобы ты хотел** учиться.", "eng": "It is important that **you want** to learn." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quier[a]", "ru": "Важно, **чтобы он хотел** сотрудничать.", "eng": "It is important that **he want** to cooperate." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quer[amos]", "ru": "Важно, **чтобы мы хотели** результата.", "eng": "It is important that **we want** the result." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quer[áis]", "ru": "Важно, **чтобы вы хотели** прогресса.", "eng": "It is important that **you all want** progress." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quier[an]", "ru": "Важно, **чтобы они хотели** помогать.", "eng": "It is important that **they want** to help." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] querido", "ru": "**Жаль, что я уже хотел** уйти раньше.", "eng": "It is a pity that **I have already wanted to** leave earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] querido", "ru": "**Жаль, что ты уже хотел** отказаться.", "eng": "It is a pity that **you have already wanted to** refuse." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] querido", "ru": "**Жаль, что он уже хотел** закрыть тему.", "eng": "It is a pity that **he has already wanted to** close the topic." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] querido", "ru": "**Жаль, что мы уже хотели** отменить встречу.", "eng": "It is a pity that **we have already wanted to** cancel the meeting." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] querido", "ru": "**Жаль, что вы уже хотели** остановиться.", "eng": "It is a pity that **you all have already wanted to** stop." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] querido", "ru": "**Жаль, что они уже хотели** уволиться.", "eng": "It is a pity that **they have already wanted to** resign." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for querer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "quis[iera]", "ru": "**Если бы я хотел** помочь больше.", "eng": "If **I wanted** to help more." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "quis[ieras]", "ru": "**Если бы ты хотел** присоединиться.", "eng": "If **you wanted** to join." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "quis[iera]", "ru": "**Если бы он хотел** остаться.", "eng": "If **he wanted** to stay." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "quis[iéramos]", "ru": "**Если бы мы хотели** изменить курс.", "eng": "If **we wanted** to change course." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "quis[ierais]", "ru": "**Если бы вы хотели** разделить обязанности.", "eng": "If **you all wanted** to split the duties." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "quis[ieran]", "ru": "**Если бы они хотели** остаться дольше.", "eng": "If **they wanted** to stay longer." }
+      ]
+    }
+  ]
+}

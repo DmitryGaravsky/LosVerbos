@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "ten[er]",
+  "translations": ["to have"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "tener"
+  },
+  "emoji": "🤲",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "teng[o]", "ru": "**У меня есть** новая книга.", "eng": "**I have** a new book." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tien[es]", "ru": "**У тебя есть** свободное время.", "eng": "**You have** some free time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tien[e]", "ru": "**У него есть** важная встреча.", "eng": "**He has** an important meeting." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ten[emos]", "ru": "**У нас есть** билет на концерт.", "eng": "**We have** a ticket to the concert." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ten[éis]", "ru": "**У вас есть** урок утром.", "eng": "**You all have** a lesson in the morning." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tien[en]", "ru": "**У них есть** идея для проекта.", "eng": "**They have** an idea for the project." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "tuv[e]", "ru": "**Вчера у меня был** свободный час.", "eng": "Yesterday **I had** a free hour." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tuv[iste]", "ru": "**Вчера у тебя был** звонок от клиента.", "eng": "Yesterday **you had** a call from the client." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tuv[o]", "ru": "**Вчера у него была** встреча.", "eng": "Yesterday **he had** a meeting." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "tuv[imos]", "ru": "**Вчера у нас была** практика.", "eng": "Yesterday **we had** practice." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tuv[isteis]", "ru": "**Вчера у вас была** проверка.", "eng": "Yesterday **you all had** an inspection." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tuv[ieron]", "ru": "**Вчера у них была** проблема с сетью.", "eng": "Yesterday **they had** a network issue." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "tendr[é]", "ru": "**Завтра у меня будет** новая задача.", "eng": "Tomorrow **I will have** a new task." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tendr[ás]", "ru": "**Завтра у тебя будет** встреча.", "eng": "Tomorrow **you will have** a meeting." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tendr[á]", "ru": "**Завтра у него будет** шанс выступить.", "eng": "Tomorrow **he will have** a chance to present." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "tendr[emos]", "ru": "**Завтра у нас будет** собрание.", "eng": "Tomorrow **we will have** a meeting." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tendr[éis]", "ru": "**Завтра у вас будет** проверка кода.", "eng": "Tomorrow **you all will have** a code review." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tendr[án]", "ru": "**Завтра у них будет** презентация.", "eng": "Tomorrow **they will have** a presentation." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ten[ía]", "ru": "**Раньше у меня была** привычка рано вставать.", "eng": "**I used to have** a habit of getting up early." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ten[ías]", "ru": "**Раньше у тебя было** много времени для чтения.", "eng": "**You used to have** plenty of time to read." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ten[ía]", "ru": "**Раньше у него была** маленькая студия.", "eng": "**He used to have** a small studio." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ten[íamos]", "ru": "**Раньше у нас были** еженедельные встречи.", "eng": "**We used to have** weekly meetings." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ten[íais]", "ru": "**Раньше у вас были** занятия по вечерам.", "eng": "**You all used to have** classes in the evenings." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ten[ían]", "ru": "**Раньше у них были** разные планы.", "eng": "**They used to have** different plans." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] tenido", "ru": "**Я уже успел** выделить время на отчёт.", "eng": "**I have already had** time to review the report." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] tenido", "ru": "**Ты уже получил** ответ от команды.", "eng": "**You have already had** an answer from the team." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] tenido", "ru": "**Он уже имел** несколько интервью.", "eng": "**He has already had** several interviews." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] tenido", "ru": "**Мы уже имели** опыт с этой задачей.", "eng": "**We have already had** experience with this task." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] tenido", "ru": "**Вы уже провели** несколько встреч сегодня.", "eng": "**You all have already had** several meetings today." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] tenido", "ru": "**Они уже поговорили** с директором.", "eng": "**They have already had** a talk with the director." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con tener.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "[ten]", "ru": "**Имей** терпение.", "eng": "**Have** patience." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "teng[a]", "ru": "Пожалуйста, **имейте** готовый план.", "eng": "Please **have** a ready plan." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "teng[amos]", "ru": "**Давайте будем уверены** в себе.", "eng": "**Let's have** confidence in ourselves." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ten[ed]", "ru": "**Имейте** надежду, друзья.", "eng": "**Have** hope, friends." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "teng[an]", "ru": "**Имейте** документы под рукой.", "eng": "**Have** the documents ready." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con tener.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no teng[as]", "ru": "**Не имей** сомнений в себе.", "eng": "**Don't have** doubts about yourself." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no teng[a]", "ru": "Пожалуйста, **не имейте** страха.", "eng": "Please **don't have** any fear." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no teng[amos]", "ru": "**Давайте не будем** лишней спешки.", "eng": "**Let's not have** unnecessary rush." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no teng[áis]", "ru": "**Не имейте** лишних ожиданий.", "eng": "**Don't have** extra expectations." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no teng[an]", "ru": "**Не имейте** споров между собой.", "eng": "**Don't have** arguments among yourselves." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "teng[a]", "ru": "Важно, **чтобы у меня была** уверенность.", "eng": "It is important that **I have** confidence." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "teng[as]", "ru": "Важно, **чтобы у тебя была** поддержка.", "eng": "It is important that **you have** support." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "teng[a]", "ru": "Важно, **чтобы у него было** время.", "eng": "It is important that **he have** time." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "teng[amos]", "ru": "Важно, **чтобы у нас была** стратегия.", "eng": "It is important that **we have** a strategy." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "teng[áis]", "ru": "Важно, **чтобы у вас была** поддержка.", "eng": "It is important that **you all have** support." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "teng[an]", "ru": "Важно, **чтобы у них была** готовность.", "eng": "It is important that **they have** readiness." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] tenido", "ru": "**Жаль, что у меня уже был** такой шанс.", "eng": "It is a pity that **I have already had** that chance." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] tenido", "ru": "**Жаль, что у тебя уже был** спор.", "eng": "It is a pity that **you have already had** an argument." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] tenido", "ru": "**Жаль, что у него уже была** трудность.", "eng": "It is a pity that **he has already had** a difficulty." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] tenido", "ru": "**Жаль, что у нас уже был** такой опыт.", "eng": "It is a pity that **we have already had** that experience." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] tenido", "ru": "**Жаль, что у вас уже были** сомнения.", "eng": "It is a pity that **you all have already had** doubts." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] tenido", "ru": "**Жаль, что у них уже были** проблемы.", "eng": "It is a pity that **they have already had** problems." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for tener.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "tuv[iera]", "ru": "**Если бы у меня была** возможность.", "eng": "If **I had** an opportunity." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "tuv[ieras]", "ru": "**Если бы у тебя было** больше времени.", "eng": "If **you had** more time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "tuv[iera]", "ru": "**Если бы у него была** машина.", "eng": "If **he had** a car." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "tuv[iéramos]", "ru": "**Если бы у нас была** поддержка.", "eng": "If **we had** support." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "tuv[ierais]", "ru": "**Если бы у вас были** дополнительные ресурсы.", "eng": "If **you all had** extra resources." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "tuv[ieran]", "ru": "**Если бы у них была** информация.", "eng": "If **they had** the information." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "s[er]",
+  "translations": ["to be"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "ser"
+  },
+  "emoji": "✨",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the highly irregular verb ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "[soy]", "ru": "**Я учитель**.", "eng": "**I am** a teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "[eres]", "ru": "**Ты учитель**.", "eng": "**You are** a teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "[es]", "ru": "**Он/она учитель**.", "eng": "**He or she is** a teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "[somos]", "ru": "**Мы учителя**.", "eng": "**We are** teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "[sois]", "ru": "**Вы учителя**.", "eng": "**You all are** teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "[son]", "ru": "**Они учителя**.", "eng": "**They are** teachers." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for ser, which shares forms with ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "f[ui]", "ru": "**Я был учителем** вчера.", "eng": "Yesterday **I was** a teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "f[uiste]", "ru": "**Ты был учителем** вчера.", "eng": "Yesterday **you were** a teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "f[ue]", "ru": "**Он/она был(а) учителем** вчера.", "eng": "Yesterday **he or she was** a teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "f[uimos]", "ru": "**Мы были учителями** вчера.", "eng": "Yesterday **we were** teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "f[uisteis]", "ru": "**Вы были учителями** вчера.", "eng": "Yesterday **you all were** teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "f[ueron]", "ru": "**Они были учителями** вчера.", "eng": "Yesterday **they were** teachers." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the irregular verb ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ser[é]", "ru": "**Завтра я буду учителем**.", "eng": "Tomorrow **I will be** a teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ser[ás]", "ru": "**Завтра ты будешь учителем**.", "eng": "Tomorrow **you will be** a teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ser[á]", "ru": "**Завтра он/она будет учителем**.", "eng": "Tomorrow **he or she will be** a teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ser[emos]", "ru": "**Завтра мы будем учителями**.", "eng": "Tomorrow **we will be** teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ser[éis]", "ru": "**Завтра вы будете учителями**.", "eng": "Tomorrow **you all will be** teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ser[án]", "ru": "**Завтра они будут учителями**.", "eng": "Tomorrow **they will be** teachers." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "er[a]", "ru": "**Я раньше был учителем**.", "eng": "**I used to be** a teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "er[as]", "ru": "**Ты раньше был учителем**.", "eng": "**You used to be** a teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "er[a]", "ru": "**Он/она раньше был(а) учителем**.", "eng": "**He or she used to be** a teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ér[amos]", "ru": "**Мы раньше были учителями**.", "eng": "**We used to be** teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "er[ais]", "ru": "**Вы раньше были учителями**.", "eng": "**You all used to be** teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "er[an]", "ru": "**Они раньше были учителями**.", "eng": "**They used to be** teachers." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] sido", "ru": "**Я уже был учителем**.", "eng": "**I have been** a teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] sido", "ru": "**Ты уже был учителем**.", "eng": "**You have been** a teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] sido", "ru": "**Он/она уже был(а) учителем**.", "eng": "**He or she has been** a teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] sido", "ru": "**Мы уже были учителями**.", "eng": "**We have been** teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] sido", "ru": "**Вы уже были учителями**.", "eng": "**You all have been** teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] sido", "ru": "**Они уже были учителями**.", "eng": "**They have been** teachers." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for ser.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "s[e]", "ru": "**Будь** хорошим учителем.", "eng": "**Be** a good teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "s[ea]", "ru": "Пожалуйста, **будьте** хорошим учителем.", "eng": "Please **be** a good teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "se[amos]", "ru": "**Давайте будем** хорошими учителями.", "eng": "**Let's be** good teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "s[ed]", "ru": "**Будьте** хорошими учителями.", "eng": "**Be** good teachers, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "s[ean]", "ru": "**Будьте** хорошими учителями.", "eng": "**Be** good teachers, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for ser.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no s[ea]s", "ru": "**Не будь** плохим учителем.", "eng": "**Don't be** a bad teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no s[ea]", "ru": "Пожалуйста, **не будьте** плохим учителем.", "eng": "Please **don't be** a bad teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no se[amos]", "ru": "**Давайте не будем** плохими учителями.", "eng": "**Let's not be** bad teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no se[áis]", "ru": "**Не будьте** плохими учителями.", "eng": "**Don't be** bad teachers, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no s[ean]", "ru": "**Не будьте** плохими учителями.", "eng": "**Don't be** bad teachers, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "s[e]", "ru": "Важно, **чтобы я был** хорошим учителем.", "eng": "It is important that **I be** a good teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "s[ea]s", "ru": "Важно, **чтобы ты был** хорошим учителем.", "eng": "It is important that **you be** a good teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "s[ea]", "ru": "Важно, **чтобы он/она был(а)** хорошим учителем.", "eng": "It is important that **he or she be** a good teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "se[amos]", "ru": "Важно, **чтобы мы были** хорошими учителями.", "eng": "It is important that **we be** good teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "se[áis]", "ru": "Важно, **чтобы вы были** хорошими учителями.", "eng": "It is important that **you all be** good teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "s[ean]", "ru": "Важно, **чтобы они были** хорошими учителями.", "eng": "It is important that **they be** good teachers." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] sido", "ru": "**Жаль, что я уже был** хорошим учителем.", "eng": "It is a pity that **I have already been** a good teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] sido", "ru": "**Жаль, что ты уже был** хорошим учителем.", "eng": "It is a pity that **you have already been** a good teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] sido", "ru": "**Жаль, что он/она уже был(а)** хорошим учителем.", "eng": "It is a pity that **he or she has already been** a good teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] sido", "ru": "**Жаль, что мы уже были** хорошими учителями.", "eng": "It is a pity that **we have already been** good teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] sido", "ru": "**Жаль, что вы уже были** хорошими учителями.", "eng": "It is a pity that **you all have already been** good teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] sido", "ru": "**Жаль, что они уже были** хорошими учителями.", "eng": "It is a pity that **they have already been** good teachers." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "f[uera]", "ru": "**Если бы я был** хорошим учителем.", "eng": "If **I were** a good teacher." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "f[ueras]", "ru": "**Если бы ты был** хорошим учителем.", "eng": "If **you were** a good teacher." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "f[uera]", "ru": "**Если бы он/она был(а)** хорошим учителем.", "eng": "If **he or she were** a good teacher." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "f[uéramos]", "ru": "**Если бы мы были** хорошими учителями.", "eng": "If **we were** good teachers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "f[uerais]", "ru": "**Если бы вы были** хорошими учителями.", "eng": "If **you all were** good teachers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "f[ueran]", "ru": "**Если бы они были** хорошими учителями.", "eng": "If **they were** good teachers." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+export const VERBS = [
+  { id: "hablar", label: "Hablar", file: "data/hablar.json" },
+  { id: "comer", label: "Comer", file: "data/comer.json" },
+  { id: "vivir", label: "Vivir", file: "data/vivir.json" },
+  { id: "estar", label: "Estar", file: "data/estar.json" },
+  { id: "ser", label: "Ser", file: "data/ser.json" },
+  { id: "ir", label: "Ir", file: "data/ir.json" },
+  { id: "tener", label: "Tener", file: "data/tener.json" },
+  { id: "querer", label: "Querer", file: "data/querer.json" },
+  { id: "dar", label: "Dar", file: "data/dar.json" },
+  { id: "decir", label: "Decir", file: "data/decir.json" },
+  { id: "ver", label: "Ver", file: "data/ver.json" },
+  { id: "poder", label: "Poder", file: "data/poder.json" },
+  { id: "hacer", label: "Hacer", file: "data/hacer.json" },
+  { id: "venir", label: "Venir", file: "data/venir.json" },
+  { id: "saber", label: "Saber", file: "data/saber.json" },
+  { id: "oir", label: "Oir", file: "data/oir.json" },
+  { id: "poner", label: "Poner", file: "data/poner.json" },
+  { id: "salir", label: "Salir", file: "data/salir.json" },
+  { id: "dormir", label: "Dormir", file: "data/dormir.json" },
+  { id: "traer", label: "Traer", file: "data/traer.json" }
+];

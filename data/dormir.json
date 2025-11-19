@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "dorm[ir]",
+  "translations": ["to sleep"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "dormir"
+  },
+  "emoji": "😴",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "duerm[o]", "ru": "**Я сплю** по восемь часов перед важными встречами.", "eng": "**I sleep** eight hours before important meetings." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "duerm[es]", "ru": "**Ты спишь** достаточно, чтобы сохранять концентрацию.", "eng": "**You sleep** enough to stay focused." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "duerm[e]", "ru": "**Он спит** в отдельной комнате гостиницы.", "eng": "**He sleeps** in a separate room at the hotel." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dorm[imos]", "ru": "**Мы спим** мало в дни запуска.", "eng": "**We sleep** little on launch days." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dorm[ís]", "ru": "**Вы спите** в кампусе компании во время хакатона.", "eng": "**You all sleep** on the company campus during the hackathon." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "duerm[en]", "ru": "**Они спят**, пока мы готовим презентацию.", "eng": "**They sleep** while we prepare the presentation." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dorm[í]", "ru": "**Вчера я спал** только три часа из-за дедлайна.", "eng": "Yesterday **I slept** only three hours because of the deadline." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dorm[iste]", "ru": "**Вчера ты спал** в офисе на диване.", "eng": "Yesterday **you slept** on the couch at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "durm[i]ó", "ru": "**Вчера он спал** в самолёте по дороге к клиенту.", "eng": "Yesterday **he slept** on the plane on the way to the client." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dorm[imos]", "ru": "**Вчера мы спали** в отеле рядом с площадкой.", "eng": "Yesterday **we slept** at a hotel near the venue." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dorm[isteis]", "ru": "**Вчера вы спали** в общем зале после смены.", "eng": "Yesterday **you all slept** in the common room after the shift." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "durm[ieron]", "ru": "**Вчера они спали** в автобусе между городами.", "eng": "Yesterday **they slept** on the bus between cities." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dormir[é]", "ru": "**Завтра я буду спать** в поезде всю дорогу.", "eng": "Tomorrow **I will sleep** on the train all the way." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dormir[ás]", "ru": "**Завтра ты будешь спать** в гостевом доме компании.", "eng": "Tomorrow **you will sleep** in the company's guest house." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dormir[á]", "ru": "**Завтра он будет спать** после ночной смены дольше обычного.", "eng": "Tomorrow **he will sleep** longer than usual after the night shift." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dormir[emos]", "ru": "**Завтра мы будем спать** в новом отеле.", "eng": "Tomorrow **we will sleep** in the new hotel." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dormir[éis]", "ru": "**Завтра вы будете спать** в купе поезда.", "eng": "Tomorrow **you all will sleep** in the train compartment." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dormir[án]", "ru": "**Завтра они будут спать** после марафона весь день.", "eng": "Tomorrow **they will sleep** all day after the marathon." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dorm[ía]", "ru": "**Раньше я спал** на раскладушке в офисе.", "eng": "**I used to sleep** on a folding bed in the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dorm[ías]", "ru": "**Раньше ты спал** по пять часов в день.", "eng": "**You used to sleep** five hours a day." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dorm[ía]", "ru": "**Раньше он спал** в офисе во время ночных смен.", "eng": "**He used to sleep** at the office during night shifts." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dorm[íamos]", "ru": "**Раньше мы спали** по очереди перед релизом.", "eng": "**We used to sleep** in turns before a release." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dorm[íais]", "ru": "**Раньше вы спали** в гостинице рядом с клиентом.", "eng": "**You all used to sleep** at a hotel near the client." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dorm[ían]", "ru": "**Раньше они спали** в коворкинге между сменами.", "eng": "**They used to sleep** in the coworking space between shifts." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] dormido", "ru": "**Я уже поспал** перед ночной сменой.", "eng": "**I have already slept** before the night shift." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] dormido", "ru": "**Ты уже поспал** перед дорогой.", "eng": "**You have already slept** before the trip." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] dormido", "ru": "**Он уже поспал** в перерыве.", "eng": "**He has already slept** during the break." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] dormido", "ru": "**Мы уже поспали** перед презентацией.", "eng": "**We have already slept** before the presentation." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] dormido", "ru": "**Вы уже поспали** перед ночным перелётом.", "eng": "**You all have already slept** before the night flight." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] dormido", "ru": "**Они уже поспали** перед ранним выездом.", "eng": "**They have already slept** before the early departure." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con dormir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "du[erme]", "ru": "**Поспи** час перед презентацией.", "eng": "**Sleep** for an hour before the presentation." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "du[erma]", "ru": "**Поспите**, пожалуйста, перед дорогой.", "eng": "Please **sleep** before the trip." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "durm[amos]", "ru": "**Давайте поспим** немного перед ночной сменой.", "eng": "**Let's sleep** a bit before the night shift." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dorm[id]", "ru": "**Поспите** пару часов перед рейсом.", "eng": "**Sleep** a couple of hours before the flight." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "du[erman]", "ru": "**Поспите**, коллеги, вы сильно устали.", "eng": "**Sleep**, colleagues, you are very tired." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con dormir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no du[ermas]", "ru": "**Не спи** на рабочем месте.", "eng": "**Don't sleep** at the workstation." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no du[erma]", "ru": "Пожалуйста, **не спите** во время презентации.", "eng": "Please **don't sleep** during the presentation." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no durm[amos]", "ru": "**Давайте не будем спать** до завершения проекта.", "eng": "**Let's not sleep** until the project is complete." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no durm[áis]", "ru": "**Не спите** в транспорте без будильника.", "eng": "**Don't sleep** on the transport without an alarm." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no du[erman]", "ru": "**Не спите** раньше времени, ещё есть задачи.", "eng": "**Don't sleep** yet; there are still tasks left." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "du[erma]", "ru": "Важно, **чтобы я спал** достаточно перед выступлением.", "eng": "It is important that **I sleep** enough before the talk." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "du[ermas]", "ru": "Важно, **чтобы ты спал** хотя бы шесть часов.", "eng": "It is important that **you sleep** at least six hours." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "du[erma]", "ru": "Важно, **чтобы он спал** спокойно перед переговорами.", "eng": "It is important that **he sleep** well before the negotiations." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "durm[amos]", "ru": "Важно, **чтобы мы спали** достаточно в командировке.", "eng": "It is important that **we sleep** enough on the business trip." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "durm[áis]", "ru": "Важно, **чтобы вы спали** ночью, а не днём.", "eng": "It is important that **you all sleep** at night, not during the day." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "du[erman]", "ru": "Важно, **чтобы они спали** перед финалом турнира.", "eng": "It is important that **they sleep** before the tournament final." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] dormido", "ru": "**Жаль, что я уже поспал** всего два часа.", "eng": "It is a pity that **I have already slept** only two hours." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] dormido", "ru": "**Жаль, что ты уже поспал** перед важным звонком.", "eng": "It is a pity that **you have already slept** before the important call." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] dormido", "ru": "**Жаль, что он уже поспал** на совещании.", "eng": "It is a pity that **he has already slept** during the meeting." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] dormido", "ru": "**Жаль, что мы уже поспали** и проспали оповещение.", "eng": "It is a pity that **we have already slept** and missed the notification." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] dormido", "ru": "**Жаль, что вы уже поспали** и опоздали на поезд.", "eng": "It is a pity that **you all have already slept** and missed the train." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] dormido", "ru": "**Жаль, что они уже поспали** вместо подготовки.", "eng": "It is a pity that **they have already slept** instead of preparing." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for dormir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "durm[iera]", "ru": "**Если бы я спал** больше прошлой ночью.", "eng": "If only **I slept** more last night." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "durm[ieras]", "ru": "**Если бы ты спал** перед рейсом.", "eng": "If **you slept** before the flight." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "durm[iera]", "ru": "**Если бы он спал** перед презентацией.", "eng": "If **he slept** before the presentation." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "durm[iéramos]", "ru": "**Если бы мы спали** больше в командировке.", "eng": "If **we slept** more on the business trip." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "durm[ierais]", "ru": "**Если бы вы спали** дольше после смены.", "eng": "If **you all slept** longer after the shift." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "durm[ieran]", "ru": "**Если бы они спали** перед марафоном.", "eng": "If **they slept** before the marathon." }
+      ]
+    }
+  ]
+}

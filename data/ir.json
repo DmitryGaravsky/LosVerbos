@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "i[r]",
+  "translations": ["to go"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "ir"
+  },
+  "emoji": "🚶",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the irregular verb ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[oy]", "ru": "**Я хожу** на рынок.", "eng": "**I go** to the market." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[as]", "ru": "**Ты ходишь** на рынок.", "eng": "**You go** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[a]", "ru": "**Он/она ходит** на рынок.", "eng": "**He or she goes** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[amos]", "ru": "**Мы ходим** на рынок.", "eng": "**We go** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[ais]", "ru": "**Вы ходите** на рынок.", "eng": "**You all go** to the market." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[an]", "ru": "**Они ходят** на рынок.", "eng": "**They go** to the market." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for ir, which shares forms with ser.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "f[ui]", "ru": "**Я сходил** на рынок вчера.", "eng": "**I went** to the market yesterday." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "f[uiste]", "ru": "**Ты сходил** на рынок вчера.", "eng": "**You went** to the market yesterday." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "f[ue]", "ru": "**Он/она сходил(а)** на рынок вчера.", "eng": "**He or she went** to the market yesterday." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "f[uimos]", "ru": "**Мы сходили** на рынок вчера.", "eng": "**We went** to the market yesterday." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "f[uisteis]", "ru": "**Вы сходили** на рынок вчера.", "eng": "**You all went** to the market yesterday." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "f[ueron]", "ru": "**Они сходили** на рынок вчера.", "eng": "**They went** to the market yesterday." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the irregular verb ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ir[é]", "ru": "**Я пойду** на рынок завтра.", "eng": "**I will go** to the market tomorrow." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ir[ás]", "ru": "**Ты пойдёшь** на рынок завтра.", "eng": "**You will go** to the market tomorrow." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ir[á]", "ru": "**Он/она пойдёт** на рынок завтра.", "eng": "**He or she will go** to the market tomorrow." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ir[emos]", "ru": "**Мы пойдём** на рынок завтра.", "eng": "**We will go** to the market tomorrow." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ir[éis]", "ru": "**Вы пойдёте** на рынок завтра.", "eng": "**You all will go** to the market tomorrow." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ir[án]", "ru": "**Они пойдут** на рынок завтра.", "eng": "**They will go** to the market tomorrow." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ib[a]", "ru": "**Я раньше ходил** на рынок каждую неделю.", "eng": "**I used to go** to the market every week." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ib[as]", "ru": "**Ты раньше ходил** на рынок каждую неделю.", "eng": "**You used to go** to the market every week." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ib[a]", "ru": "**Он/она раньше ходил(а)** на рынок каждую неделю.", "eng": "**He or she used to go** to the market every week." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "íb[amos]", "ru": "**Мы раньше ходили** на рынок каждую неделю.", "eng": "**We used to go** to the market every week." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ib[ais]", "ru": "**Вы раньше ходили** на рынок каждую неделю.", "eng": "**You all used to go** to the market every week." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ib[an]", "ru": "**Они раньше ходили** на рынок каждую неделю.", "eng": "**They used to go** to the market every week." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] ido", "ru": "**Я уже сходил** на рынок.", "eng": "**I have gone** to the market." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] ido", "ru": "**Ты уже сходил** на рынок.", "eng": "**You have gone** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] ido", "ru": "**Он/она уже сходил(а)** на рынок.", "eng": "**He or she has gone** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] ido", "ru": "**Мы уже сходили** на рынок.", "eng": "**We have gone** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] ido", "ru": "**Вы уже сходили** на рынок.", "eng": "**You all have gone** to the market." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] ido", "ru": "**Они уже сходили** на рынок.", "eng": "**They have gone** to the market." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for ir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[e]", "ru": "**Иди** на рынок.", "eng": "**Go** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[aya]", "ru": "**Идите** на рынок, пожалуйста.", "eng": "**Go** to the market, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "va[yamos]", "ru": "**Давайте пойдём** на рынок.", "eng": "**Let's go** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "[id]", "ru": "**Идите** на рынок.", "eng": "**Go** to the market, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[ayan]", "ru": "**Идите** на рынок.", "eng": "**Go** to the market, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for ir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no v[ayas]", "ru": "**Не ходи** на рынок.", "eng": "**Don't go** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no v[aya]", "ru": "Пожалуйста, **не ходите** на рынок.", "eng": "Please **don't go** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no v[ayamos]", "ru": "**Давайте не будем ходить** на рынок.", "eng": "**Let's not go** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no v[ayáis]", "ru": "**Не ходите** на рынок.", "eng": "**Don't go** to the market, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no v[ayan]", "ru": "**Не ходите** на рынок.", "eng": "**Don't go** to the market, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[aya]", "ru": "Важно, **чтобы я пошёл** на рынок.", "eng": "It is important that **I go** to the market." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[ayas]", "ru": "Важно, **чтобы ты пошёл** на рынок.", "eng": "It is important that **you go** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[aya]", "ru": "Важно, **чтобы он/она пошёл(ла)** на рынок.", "eng": "It is important that **he or she go** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[ayamos]", "ru": "Важно, **чтобы мы пошли** на рынок.", "eng": "It is important that **we go** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[ayáis]", "ru": "Важно, **чтобы вы пошли** на рынок.", "eng": "It is important that **you all go** to the market." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[ayan]", "ru": "Важно, **чтобы они пошли** на рынок.", "eng": "It is important that **they go** to the market." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] ido", "ru": "**Жаль, что я уже сходил** на рынок.", "eng": "It is a pity that **I have already gone** to the market." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] ido", "ru": "**Жаль, что ты уже сходил** на рынок.", "eng": "It is a pity that **you have already gone** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] ido", "ru": "**Жаль, что он/она уже сходил(а)** на рынок.", "eng": "It is a pity that **he or she has already gone** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] ido", "ru": "**Жаль, что мы уже сходили** на рынок.", "eng": "It is a pity that **we have already gone** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] ido", "ru": "**Жаль, что вы уже сходили** на рынок.", "eng": "It is a pity that **you all have already gone** to the market." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] ido", "ru": "**Жаль, что они уже сходили** на рынок.", "eng": "It is a pity that **they have already gone** to the market." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for ir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "f[uera]", "ru": "**Если бы я пошёл** на рынок.", "eng": "If **I went** to the market." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "f[ueras]", "ru": "**Если бы ты пошёл** на рынок.", "eng": "If **you went** to the market." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "f[uera]", "ru": "**Если бы он/она пошёл(ла)** на рынок.", "eng": "If **he or she went** to the market." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "f[uéramos]", "ru": "**Если бы мы пошли** на рынок.", "eng": "If **we went** to the market." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "f[uerais]", "ru": "**Если бы вы пошли** на рынок.", "eng": "If **you all went** to the market." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "f[ueran]", "ru": "**Если бы они пошли** на рынок.", "eng": "If **they went** to the market." }
+      ]
+    }
+  ]
+}

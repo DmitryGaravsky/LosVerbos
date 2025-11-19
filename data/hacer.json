@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "hac[er]",
+  "translations": ["to do", "to make"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "hacer"
+  },
+  "emoji": "🛠️",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hag[o]", "ru": "**Я делаю** резервную копию каждый вечер.", "eng": "**I make** a backup every evening." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hac[es]", "ru": "**Ты делаешь** зарядку по утрам.", "eng": "**You do** morning exercise." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hac[e]", "ru": "**Он делает** отчёт ежедневно.", "eng": "**He makes** the report daily." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hac[emos]", "ru": "**Мы делаем** код-ревью по пятницам.", "eng": "**We do** code reviews on Fridays." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hac[éis]", "ru": "**Вы делаете** заметки в общем документе.", "eng": "**You all take** notes in the shared document." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hac[en]", "ru": "**Они делают** прототипы по запросу.", "eng": "**They make** prototypes on demand." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hic[e]", "ru": "**Вчера я сделал** резервную копию проекта.", "eng": "Yesterday **I made** a backup of the project." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hic[iste]", "ru": "**Вчера ты сделал** презентацию для менеджера.", "eng": "Yesterday **you made** a presentation for the manager." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hiz[o]", "ru": "**Вчера он сделал** резервный план.", "eng": "Yesterday **he made** a contingency plan." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hic[imos]", "ru": "**Вчера мы сделали** релиз.", "eng": "Yesterday **we made** the release." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hic[isteis]", "ru": "**Вчера вы сделали** обзор требований.", "eng": "Yesterday **you all reviewed** the requirements." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hic[ieron]", "ru": "**Вчера они сделали** демонстрацию для клиента.", "eng": "Yesterday **they made** a demo for the client." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "har[é]", "ru": "**Завтра я сделаю** обновление сервера.", "eng": "Tomorrow **I will do** the server update." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "har[ás]", "ru": "**Завтра ты сделаешь** отчёт по метрикам.", "eng": "Tomorrow **you will make** the metrics report." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "har[á]", "ru": "**Завтра он сделает** резервный план.", "eng": "Tomorrow **he will make** a backup plan." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "har[emos]", "ru": "**Завтра мы сделаем** деплой.", "eng": "Tomorrow **we will do** the deployment." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "har[éis]", "ru": "**Завтра вы сделаете** сводный документ.", "eng": "Tomorrow **you all will make** the summary document." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "har[án]", "ru": "**Завтра они сделают** презентацию на встрече.", "eng": "Tomorrow **they will make** the presentation at the meeting." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hac[ía]", "ru": "**Раньше я делал** заметки вручную.", "eng": "**I used to make** notes by hand." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hac[ías]", "ru": "**Раньше ты делал** тесты в консоли.", "eng": "**You used to do** tests in the console." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hac[ía]", "ru": "**Раньше он делал** бэкапы на диски.", "eng": "**He used to make** backups to disks." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hac[íamos]", "ru": "**Раньше мы делали** разбор ошибок по понедельникам.", "eng": "**We used to do** bug reviews on Mondays." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hac[íais]", "ru": "**Раньше вы делали** отчёты еженедельно.", "eng": "**You all used to make** reports weekly." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hac[ían]", "ru": "**Раньше они делали** макеты вместе.", "eng": "**They used to make** mockups together." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] hecho", "ru": "**Я уже сделал** новую ветку.", "eng": "**I have already made** the new branch." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] hecho", "ru": "**Ты уже сделал** коммит.", "eng": "**You have already made** the commit." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] hecho", "ru": "**Он уже сделал** резервную копию.", "eng": "**He has already made** the backup." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] hecho", "ru": "**Мы уже сделали** тестовый прогон.", "eng": "**We have already done** the test run." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] hecho", "ru": "**Вы уже сделали** проверку качества.", "eng": "**You all have already done** the quality check." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] hecho", "ru": "**Они уже сделали** обновление дизайна.", "eng": "**They have already done** the design refresh." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con hacer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[az]", "ru": "**Сделай** резервную копию сейчас.", "eng": "**Make** a backup now." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hag[a]", "ru": "**Сделайте**, пожалуйста, короткое резюме.", "eng": "Please **make** a brief summary." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hag[amos]", "ru": "**Давайте сделаем** перерыв на кофе.", "eng": "**Let's make** a coffee break." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hac[ed]", "ru": "**Сделайте** заметки, друзья.", "eng": "**Make** some notes, friends." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hag[an]", "ru": "**Сделайте** презентацию для команды.", "eng": "**Make** the presentation for the team." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con hacer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no hag[as]", "ru": "**Не делай** выводы поспешно.", "eng": "**Don't make** conclusions in haste." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no hag[a]", "ru": "Пожалуйста, **не делайте** изменений без обсуждения.", "eng": "Please **don't make** changes without discussion." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no hag[amos]", "ru": "**Давайте не будем делать** лишних задач.", "eng": "**Let's not do** extra tasks." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no hag[áis]", "ru": "**Не делайте** правки прямо в мастере.", "eng": "**Don't make** edits directly on main." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no hag[an]", "ru": "**Не делайте** релиз без тестов.", "eng": "**Don't do** the release without tests." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hag[a]", "ru": "Важно, **чтобы я сделал** отчёт вовремя.", "eng": "It is important that **I make** the report on time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hag[as]", "ru": "Важно, **чтобы ты сделал** проверку.", "eng": "It is important that **you do** the check." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hag[a]", "ru": "Важно, **чтобы он сделал** резерв.", "eng": "It is important that **he make** a backup." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hag[amos]", "ru": "Важно, **чтобы мы сделали** анализ.", "eng": "It is important that **we do** the analysis." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hag[áis]", "ru": "Важно, **чтобы вы сделали** отзывы.", "eng": "It is important that **you all give** the feedback." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hag[an]", "ru": "Важно, **чтобы они сделали** аудит.", "eng": "It is important that **they do** the audit." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] hecho", "ru": "**Жаль, что я уже сделал** окончательный выбор.", "eng": "It is a pity that **I have already made** the final choice." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] hecho", "ru": "**Жаль, что ты уже сделал** публикацию.", "eng": "It is a pity that **you have already made** the post." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] hecho", "ru": "**Жаль, что он уже сделал** релиз.", "eng": "It is a pity that **he has already done** the release." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] hecho", "ru": "**Жаль, что мы уже сделали** перерасчёт.", "eng": "It is a pity that **we have already done** the recalculation." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] hecho", "ru": "**Жаль, что вы уже сделали** объявление.", "eng": "It is a pity that **you all have already made** the announcement." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] hecho", "ru": "**Жаль, что они уже сделали** аудит.", "eng": "It is a pity that **they have already done** the audit." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for hacer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hic[iera]", "ru": "**Если бы я делал** резерв заранее.", "eng": "If **I made** backups in advance." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hic[ieras]", "ru": "**Если бы ты делал** отчёты быстрее.", "eng": "If **you made** the reports faster." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hic[iera]", "ru": "**Если бы он делал** проверки тщательнее.", "eng": "If **he did** the checks more thoroughly." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hic[iéramos]", "ru": "**Если бы мы делали** тесты чаще.", "eng": "If **we did** tests more often." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hic[ierais]", "ru": "**Если бы вы делали** ревью своевременно.", "eng": "If **you all did** reviews on time." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hic[ieran]", "ru": "**Если бы они делали** обновления малыми порциями.", "eng": "If **they made** updates in small batches." }
+      ]
+    }
+  ]
+}

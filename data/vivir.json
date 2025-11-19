@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "viv[ir]",
+  "translations": ["to live"],
+  "metadata": {
+    "verbType": "regular",
+    "family": "-ir"
+  },
+  "emoji": "🏠",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the regular -ir verb vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "viv[o]", "ru": "**Я живу** в Мадриде.", "eng": "**I live** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[es]", "ru": "**Ты живёшь** в Мадриде.", "eng": "**You live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[e]", "ru": "**Он/она живёт** в Мадриде.", "eng": "**He or she lives** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[imos]", "ru": "**Мы живём** в Мадриде.", "eng": "**We live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[ís]", "ru": "**Вы живёте** в Мадриде.", "eng": "**You all live** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[en]", "ru": "**Они живут** в Мадриде.", "eng": "**They live** in Madrid." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for the regular -ir verb vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "viv[í]", "ru": "**Я жил** в Мадриде.", "eng": "**I lived** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[iste]", "ru": "**Ты жил** в Мадриде.", "eng": "**You lived** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[ió]", "ru": "**Он/она жил(а)** в Мадриде.", "eng": "**He or she lived** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[imos]", "ru": "**Мы жили** в Мадриде.", "eng": "**We lived** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[isteis]", "ru": "**Вы жили** в Мадриде.", "eng": "**You all lived** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[ieron]", "ru": "**Они жили** в Мадриде.", "eng": "**They lived** in Madrid." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the regular -ir verb vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "vivir[é]", "ru": "**Я буду жить** в Мадриде.", "eng": "**I will live** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "vivir[ás]", "ru": "**Ты будешь жить** в Мадриде.", "eng": "**You will live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "vivir[á]", "ru": "**Он/она будет жить** в Мадриде.", "eng": "**He or she will live** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "vivir[emos]", "ru": "**Мы будем жить** в Мадриде.", "eng": "**We will live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "vivir[éis]", "ru": "**Вы будете жить** в Мадриде.", "eng": "**You all will live** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "vivir[án]", "ru": "**Они будут жить** в Мадриде.", "eng": "**They will live** in Madrid." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for the regular -ir verb vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "viv[ía]", "ru": "**Я обычно жил** в Мадриде.", "eng": "**I used to live** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[ías]", "ru": "**Ты обычно жил** в Мадриде.", "eng": "**You used to live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[ía]", "ru": "**Он/она обычно жил(а)** в Мадриде.", "eng": "**He or she used to live** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[íamos]", "ru": "**Мы обычно жили** в Мадриде.", "eng": "**We used to live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[íais]", "ru": "**Вы обычно жили** в Мадриде.", "eng": "**You all used to live** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[ían]", "ru": "**Они обычно жили** в Мадриде.", "eng": "**They used to live** in Madrid." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for vivir.",
+      "forms": [
+          { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] vivido", "ru": "**Я уже жил** в Мадриде.", "eng": "**I have lived** in Madrid." },
+          { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] vivido", "ru": "**Ты уже жил** в Мадриде.", "eng": "**You have lived** in Madrid." },
+          { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] vivido", "ru": "**Он/она уже жил(а)** в Мадриде.", "eng": "**He or she has lived** in Madrid." },
+          { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] vivido", "ru": "**Мы уже жили** в Мадриде.", "eng": "**We have lived** in Madrid." },
+          { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] vivido", "ru": "**Вы уже жили** в Мадриде.", "eng": "**You all have lived** in Madrid." },
+          { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] vivido", "ru": "**Они уже жили** в Мадриде.", "eng": "**They have lived** in Madrid." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for vivir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[e]", "ru": "**Живи** в Мадриде.", "eng": "**Live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[a]", "ru": "**Живите** в Мадриде, пожалуйста.", "eng": "**Live** in Madrid, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[amos]", "ru": "**Давайте жить** в Мадриде.", "eng": "**Let's live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[id]", "ru": "**Живите** в Мадриде.", "eng": "**Live** in Madrid, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[an]", "ru": "**Живите** в Мадриде.", "eng": "**Live** in Madrid, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for vivir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no viv[as]", "ru": "**Не живи** в Мадриде.", "eng": "**Don't live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "no viv[a]", "ru": "**Не живите** в Мадриде, пожалуйста.", "eng": "Please **don't live** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no viv[amos]", "ru": "**Давайте не будем жить** в Мадриде.", "eng": "**Let's not live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no viv[áis]", "ru": "**Не живите** в Мадриде.", "eng": "**Don't live** in Madrid, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "no viv[an]", "ru": "**Не живите** в Мадриде.", "eng": "**Don't live** in Madrid, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "viv[a]", "ru": "Важно, **чтобы я жил** в Мадриде.", "eng": "It is important that **I live** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[as]", "ru": "Важно, **чтобы ты жил** в Мадриде.", "eng": "It is important that **you live** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[a]", "ru": "Важно, **чтобы он/она жил(а)** в Мадриде.", "eng": "It is important that **he or she live** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[amos]", "ru": "Важно, **чтобы мы жили** в Мадриде.", "eng": "It is important that **we live** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[áis]", "ru": "Важно, **чтобы вы жили** в Мадриде.", "eng": "It is important that **you all live** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[an]", "ru": "Важно, **чтобы они жили** в Мадриде.", "eng": "It is important that **they live** in Madrid." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] vivido", "ru": "**Жаль, что я уже жил** в Мадриде.", "eng": "It is a pity that **I have already lived** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] vivido", "ru": "**Жаль, что ты уже жил** в Мадриде.", "eng": "It is a pity that **you have already lived** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] vivido", "ru": "**Жаль, что он/она уже жил(а)** в Мадриде.", "eng": "It is a pity that **he or she has already lived** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] vivido", "ru": "**Жаль, что мы уже жили** в Мадриде.", "eng": "It is a pity that **we have already lived** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] vivido", "ru": "**Жаль, что вы уже жили** в Мадриде.", "eng": "It is a pity that **you all have already lived** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] vivido", "ru": "**Жаль, что они уже жили** в Мадриде.", "eng": "It is a pity that **they have already lived** in Madrid." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for vivir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "viv[iera]", "ru": "**Если бы я жил** в Мадриде.", "eng": "If **I lived** in Madrid." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "viv[ieras]", "ru": "**Если бы ты жил** в Мадриде.", "eng": "If **you lived** in Madrid." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "viv[iera]", "ru": "**Если бы он/она жил(а)** в Мадриде.", "eng": "If **he or she lived** in Madrid." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "viv[iéramos]", "ru": "**Если бы мы жили** в Мадриде.", "eng": "If **we lived** in Madrid." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "viv[ierais]", "ru": "**Если бы вы жили** в Мадриде.", "eng": "If **you all lived** in Madrid." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "viv[ieran]", "ru": "**Если бы они жили** в Мадриде.", "eng": "If **they lived** in Madrid." }
+      ]
+    }
+  ]
+}
