@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "v[er]",
+  "translations": ["to see"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "ver"
+  },
+  "emoji": "👀",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[e]o", "ru": "Я вижу город с балкона.", "eng": "I see the city from the balcony." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[es]", "ru": "Ты видишь, что свет горит.", "eng": "You see that the light is on." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[e]", "ru": "Он видит результаты отчёта.", "eng": "He sees the report results." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[emos]", "ru": "Мы видим команду каждый день.", "eng": "We see the team every day." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[eis]", "ru": "Вы видите, как проект растёт.", "eng": "You all see the project growing." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[en]", "ru": "Они видят новые возможности.", "eng": "They see new opportunities." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[i]", "ru": "Вчера я увидел редкую комету.", "eng": "Yesterday I saw a rare comet." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[iste]", "ru": "Вчера ты увидел зашифрованное сообщение.", "eng": "Yesterday you saw the encrypted message." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[io]", "ru": "Вчера он увидел ошибку в плане.", "eng": "Yesterday he saw a flaw in the plan." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[imos]", "ru": "Вчера мы увидели наши результаты.", "eng": "Yesterday we saw our results." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[isteis]", "ru": "Вчера вы увидели обновлённый дизайн.", "eng": "Yesterday you all saw the refreshed design." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[ieron]", "ru": "Вчера они увидели финальную презентацию.", "eng": "Yesterday they saw the final presentation." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ver[é]", "ru": "Завтра я увижу клиента лично.", "eng": "Tomorrow I will see the client in person." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ver[ás]", "ru": "Завтра ты увидишь новый интерфейс.", "eng": "Tomorrow you will see the new interface." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ver[á]", "ru": "Завтра он увидит отчёт полностью.", "eng": "Tomorrow he will see the report in full." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ver[emos]", "ru": "Завтра мы увидим результаты теста.", "eng": "Tomorrow we will see the test results." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ver[éis]", "ru": "Завтра вы увидите план обновлений.", "eng": "Tomorrow you all will see the update plan." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ver[án]", "ru": "Завтра они увидят пилотный запуск.", "eng": "Tomorrow they will see the pilot launch." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ve[ía]", "ru": "Раньше я часто видел рассветы у моря.", "eng": "I used to see sunrises by the sea." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ve[ías]", "ru": "Раньше ты часто видел коллег поздно ночью.", "eng": "You used to see colleagues late at night." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ve[ía]", "ru": "Раньше он видел прогресс каждый месяц.", "eng": "He used to see progress every month." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ve[íamos]", "ru": "Раньше мы видели статистику по пятницам.", "eng": "We used to see the stats on Fridays." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ve[íais]", "ru": "Раньше вы видели партнёров на конференциях.", "eng": "You all used to see partners at conferences." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ve[ían]", "ru": "Раньше они видели ошибки мгновенно.", "eng": "They used to see mistakes instantly." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] visto", "ru": "Я уже увидел сообщение от клиента.", "eng": "I have already seen the client's message." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] visto", "ru": "Ты уже увидел обновлённый отчёт.", "eng": "You have already seen the updated report." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] visto", "ru": "Он уже увидел ключевой риск.", "eng": "He has already seen the key risk." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] visto", "ru": "Мы уже увидели предварительные цифры.", "eng": "We have already seen the preliminary numbers." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] visto", "ru": "Вы уже увидели уведомление системы.", "eng": "You all have already seen the system alert." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] visto", "ru": "Они уже увидели обратную связь.", "eng": "They have already seen the feedback." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con ver.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[e]", "ru": "Посмотри на экран внимательно.", "eng": "Look at the screen carefully." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "v[ea]", "ru": "Посмотрите, пожалуйста, на диаграмму.", "eng": "Please look at the chart." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[eamos]", "ru": "Давайте посмотрим на альтернативы.", "eng": "Let's look at the alternatives." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[ed]", "ru": "Посмотрите на результаты, друзья.", "eng": "Look at the results, folks." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "v[ean]", "ru": "Посмотрите на новые метрики.", "eng": "Look at the new metrics." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con ver.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no v[eas]", "ru": "Не смотри в сторону.", "eng": "Don't look away." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no v[ea]", "ru": "Пожалуйста, не смотрите на экран пока.", "eng": "Please don't look at the screen yet." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no v[eamos]", "ru": "Давайте не будем смотреть на старые данные.", "eng": "Let's not look at the old data." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no v[eáis]", "ru": "Не смотрите на черновик.", "eng": "Don't look at the draft." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no v[ean]", "ru": "Не смотрите на черновик заранее.", "eng": "Don't look at the draft ahead of time." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[ea]", "ru": "Важно, чтобы я увидел полную картину.", "eng": "It is important that I see the full picture." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[eas]", "ru": "Важно, чтобы ты увидел проблему заранее.", "eng": "It is important that you see the issue in advance." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[ea]", "ru": "Важно, чтобы он увидел детали.", "eng": "It is important that he see the details." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[eamos]", "ru": "Важно, чтобы мы увидели альтернативы.", "eng": "It is important that we see the alternatives." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[eáis]", "ru": "Важно, чтобы вы увидели новые данные.", "eng": "It is important that you all see the new data." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[ean]", "ru": "Важно, чтобы они увидели последствия.", "eng": "It is important that they see the consequences." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] visto", "ru": "Жаль, что я уже увидел финал соревнования.", "eng": "It is a pity that I have already seen the competition finale." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] visto", "ru": "Жаль, что ты уже увидел черновой макет.", "eng": "It is a pity that you have already seen the draft mockup." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] visto", "ru": "Жаль, что он уже увидел сюрприз.", "eng": "It is a pity that he has already seen the surprise." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] visto", "ru": "Жаль, что мы уже увидели первые результаты.", "eng": "It is a pity that we have already seen the first results." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] visto", "ru": "Жаль, что вы уже увидели исход дела.", "eng": "It is a pity that you all have already seen the outcome." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] visto", "ru": "Жаль, что они уже увидели финальный отчёт.", "eng": "It is a pity that they have already seen the final report." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for ver.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "v[iera]", "ru": "Если бы я видел это раньше.", "eng": "If I saw this earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[ieras]", "ru": "Если бы ты видел предупреждение вовремя.", "eng": "If you saw the warning on time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "v[iera]", "ru": "Если бы он видел картину полностью.", "eng": "If he saw the full picture." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "v[iéramos]", "ru": "Если бы мы видели первые сигналы.", "eng": "If we saw the first signals." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "v[ierais]", "ru": "Если бы вы видели данные заранее.", "eng": "If you all saw the data in advance." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "v[ieran]", "ru": "Если бы они видели последствия.", "eng": "If they saw the consequences." }
+      ]
+    }
+  ]
+}

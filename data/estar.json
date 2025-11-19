@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "est[ar]",
+  "translations": ["to be (temporary)", "to stay"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "estar"
+  },
+  "emoji": "📍",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the irregular verb estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "est[oy]", "ru": "Я нахожусь в офисе.", "eng": "I am at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "est[ás]", "ru": "Ты находишься в офисе.", "eng": "You are at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "est[á]", "ru": "Он/она находится в офисе.", "eng": "He or she is at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "est[amos]", "ru": "Мы находимся в офисе.", "eng": "We are at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "est[áis]", "ru": "Вы находитесь в офисе.", "eng": "You all are at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "est[án]", "ru": "Они находятся в офисе.", "eng": "They are at the office." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for the irregular verb estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "estuv[e]", "ru": "Я был в офисе.", "eng": "I was at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "estuv[iste]", "ru": "Ты был в офисе.", "eng": "You were at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "estuv[o]", "ru": "Он/она был(а) в офисе.", "eng": "He or she was at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "estuv[imos]", "ru": "Мы были в офисе.", "eng": "We were at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "estuv[isteis]", "ru": "Вы были в офисе.", "eng": "You all were at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "estuv[ieron]", "ru": "Они были в офисе.", "eng": "They were at the office." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the irregular verb estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "estar[é]", "ru": "Я буду в офисе.", "eng": "I will be at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "estar[ás]", "ru": "Ты будешь в офисе.", "eng": "You will be at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "estar[á]", "ru": "Он/она будет в офисе.", "eng": "He or she will be at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "estar[emos]", "ru": "Мы будем в офисе.", "eng": "We will be at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "estar[éis]", "ru": "Вы будете в офисе.", "eng": "You all will be at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "estar[án]", "ru": "Они будут в офисе.", "eng": "They will be at the office." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "est[aba]", "ru": "Я обычно находился в офисе.", "eng": "I used to be at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "est[abas]", "ru": "Ты обычно находился в офисе.", "eng": "You used to be at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "est[aba]", "ru": "Он/она обычно находился(лась) в офисе.", "eng": "He or she used to be at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "est[ábamos]", "ru": "Мы обычно находились в офисе.", "eng": "We used to be at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "est[abais]", "ru": "Вы обычно находились в офисе.", "eng": "You all used to be at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "est[aban]", "ru": "Они обычно находились в офисе.", "eng": "They used to be at the office." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] estado", "ru": "Я уже был в офисе.", "eng": "I have been at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] estado", "ru": "Ты уже был в офисе.", "eng": "You have been at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] estado", "ru": "Он/она уже был(а) в офисе.", "eng": "He or she has been at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] estado", "ru": "Мы уже были в офисе.", "eng": "We have been at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] estado", "ru": "Вы уже были в офисе.", "eng": "You all have been at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] estado", "ru": "Они уже были в офисе.", "eng": "They have been at the office." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for estar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "est[á]", "ru": "Будь в офисе вовремя.", "eng": "Be at the office on time." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "est[e]", "ru": "Будьте в офисе вовремя, пожалуйста.", "eng": "Be at the office on time, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "est[emos]", "ru": "Давайте будем в офисе вовремя.", "eng": "Let's be at the office on time." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "estad", "ru": "Будьте в офисе вовремя.", "eng": "Be at the office on time, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "est[én]", "ru": "Будьте в офисе вовремя.", "eng": "Be at the office on time, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for estar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no est[és]", "ru": "Не оставайся в офисе поздно.", "eng": "Don't stay at the office late." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no est[é]", "ru": "Не оставайтесь в офисе поздно, пожалуйста.", "eng": "Please don't stay at the office late." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no est[emos]", "ru": "Давайте не будем оставаться в офисе поздно.", "eng": "Let's not stay at the office late." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no est[éis]", "ru": "Не оставайтесь в офисе поздно.", "eng": "Don't stay at the office late, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no est[én]", "ru": "Не оставайтесь в офисе поздно.", "eng": "Don't stay at the office late, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "est[é]", "ru": "Важно, чтобы я был в офисе.", "eng": "It is important that I be at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "est[és]", "ru": "Важно, чтобы ты был в офисе.", "eng": "It is important that you be at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "est[é]", "ru": "Важно, чтобы он/она был(а) в офисе.", "eng": "It is important that he or she be at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "est[emos]", "ru": "Важно, чтобы мы были в офисе.", "eng": "It is important that we be at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "est[éis]", "ru": "Важно, чтобы вы были в офисе.", "eng": "It is important that you all be at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "est[én]", "ru": "Важно, чтобы они были в офисе.", "eng": "It is important that they be at the office." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] estado", "ru": "Жаль, что я уже был в офисе.", "eng": "It is a pity that I have already been at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] estado", "ru": "Жаль, что ты уже был в офисе.", "eng": "It is a pity that you have already been at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] estado", "ru": "Жаль, что он/она уже был(а) в офисе.", "eng": "It is a pity that he or she has already been at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] estado", "ru": "Жаль, что мы уже были в офисе.", "eng": "It is a pity that we have already been at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] estado", "ru": "Жаль, что вы уже были в офисе.", "eng": "It is a pity that you all have already been at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] estado", "ru": "Жаль, что они уже были в офисе.", "eng": "It is a pity that they have already been at the office." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for estar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "estuv[iera]", "ru": "Если бы я был в офисе.", "eng": "If I were at the office." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "estuv[ieras]", "ru": "Если бы ты был в офисе.", "eng": "If you were at the office." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "estuv[iera]", "ru": "Если бы он/она был(а) в офисе.", "eng": "If he or she were at the office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "estuv[iéramos]", "ru": "Если бы мы были в офисе.", "eng": "If we were at the office." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "estuv[ierais]", "ru": "Если бы вы были в офисе.", "eng": "If you all were at the office." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "estuv[ieran]", "ru": "Если бы они были в офисе.", "eng": "If they were at the office." }
+      ]
+    }
+  ]
+}

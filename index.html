@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Los Verbos · Conjugador</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#274bac">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Los Verbos">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/icon-512.png">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body data-theme="system">
+  <div class="app-shell">
+    <header class="app-header">
+      <h1 class="app-title">
+        <button type="button" class="app-title__link" data-view-target="training" aria-label="Ir al entrenamiento">Los Verbos</button>
+      </h1>
+      <nav class="app-nav" aria-label="Navegación principal">
+        <button type="button" class="nav-item nav-item--icon is-active" data-view-target="reference" aria-label="Referencia" title="Referencia">
+          <span aria-hidden="true">ℹ︎</span>
+          <span class="sr-only">Referencia</span>
+        </button>
+        <button type="button" class="nav-item nav-item--icon" data-view-target="settings" aria-label="Ajustes" title="Ajustes">
+          <span aria-hidden="true">⚙︎</span>
+          <span class="sr-only">Ajustes</span>
+        </button>
+      </nav>
+    </header>
+
+    <main class="app-main">
+      <section id="viewTraining" class="view" data-view="training">
+        <p class="view-note">Recuerda la forma correcta y compruébala al instante. Los acentos y apóstrofos son opcionales.</p>
+        <section id="trainer" class="trainer">
+          <div class="trainer-header">
+            <div class="trainer-context">
+              <span id="trainerEmoji" class="trainer-emoji" aria-hidden="true">—</span>
+              <span id="trainerInfinitive" class="trainer-infinitive">—</span>
+            </div>
+          </div>
+
+          <div class="trainer-response">
+            <span id="trainerTense" class="trainer-tense-tag trainer-tense-tag--overlay">—</span>
+            <div class="trainer-active-row">
+              <div class="trainer-pronoun-row">
+                <span id="trainerPronoun" class="trainer-pronoun"></span>
+              </div>
+              <div class="trainer-entry-row">
+                <span id="trainerStem" class="trainer-stem"></span>
+                <input
+                  id="trainerInput"
+                  class="trainer-input"
+                  type="text"
+                  inputmode="latin"
+                  autocomplete="off"
+                  autocapitalize="none"
+                  spellcheck="false"
+                  aria-label="Introduce la terminación"
+                  size="6"
+                >
+                <span id="trainerTail" class="trainer-tail"></span>
+              </div>
+            </div>
+
+            <div id="trainerExample" class="trainer-example" hidden aria-live="polite">
+              <p id="trainerExampleText" class="trainer-example-text"></p>
+            </div>
+            <div id="trainerSuggestions" class="trainer-suggestions" hidden></div>
+          </div>
+
+          <div id="trainerFeedback" class="trainer-feedback" role="status"></div>
+
+          <footer class="trainer-footer" aria-label="Resumen del progreso">
+            <div class="trainer-actions">
+              <button id="trainerPrimary" type="button" class="trainer-primary" disabled>Comprobar</button>
+              <button id="trainerRefresh" type="button" class="icon-button" aria-label="Actualizar tarjeta" title="Actualizar tarjeta">&#8635;</button>
+            </div>
+            <div class="trainer-progressbar" aria-hidden="true">
+              <span id="trainerProgressFill"></span>
+            </div>
+            <div class="trainer-stats">
+              <span id="trainerDue">Pendientes: —</span>
+              <span id="trainerAccuracy">Precisión: —</span>
+            </div>
+          </footer>
+        </section>
+      </section>
+      
+      <section id="viewReference" class="view" data-view="reference" hidden>
+        <p class="view-note">Explora las formas verbales y los detalles antes de practicar.</p>
+        <div class="reference-header">
+          <span id="referenceEmoji" class="reference-emoji is-empty" aria-hidden="true"></span>
+          <h1 id="referenceHeading" class="reference-title">—</h1>
+        </div>
+        <div class="meta">
+          <div><strong>Infinitivo:</strong> <span id="infinitive">—</span> (<span id="verbType">—</span>)</div>
+          <div><strong>Traducción:</strong> <span id="translation">—</span></div>          
+        </div>
+        <div class="controls">
+          <div class="control">
+            <label for="verbSelect">Selecciona el verbo:</label>
+            <select id="verbSelect" aria-label="Elige el verbo"></select>
+          </div>
+          <div class="control">
+            <label for="tenseSelect">Selecciona el tiempo:</label>
+            <select id="tenseSelect" aria-label="Elige el tiempo verbal"></select>
+          </div>
+        </div>
+        <div id="forms" class="reference-forms"></div>
+        <div id="status" class="status-bar"></div>
+      </section>
+
+      <section id="viewSettings" class="view" data-view="settings" hidden>
+        <p class="view-note">Personaliza el tema visual y controla la memoria del entrenador.</p>
+        <section class="settings-panel">
+          <div class="settings-group">
+            <h3>Tema</h3>
+            <div class="theme-toggle" role="radiogroup" aria-label="Tema">
+              <label class="theme-option">
+                <input type="radio" name="theme" value="light" id="themeLight">
+                <span>Luz</span>
+              </label>
+              <label class="theme-option">
+                <input type="radio" name="theme" value="dark" id="themeDark">
+                <span>Oscuro</span>
+              </label>
+              <label class="theme-option">
+                <input type="radio" name="theme" value="system" id="themeSystem" checked>
+                <span>Sistema</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="settings-group">
+            <h3>Idioma del ejemplo</h3>
+            <p class="settings-hint">Elige en qué idioma se muestra el ejemplo contextual en la tarjeta.</p>
+            <div class="translation-toggle" role="radiogroup" aria-label="Idioma del ejemplo">
+              <label class="translation-option">
+                <input type="radio" name="translationLanguage" value="ru" id="translationLangRu" checked>
+                <span>Русский</span>
+              </label>
+              <label class="translation-option">
+                <input type="radio" name="translationLanguage" value="eng" id="translationLangEng">
+                <span>English</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="settings-group">
+            <h3>Tiempos en entrenamiento</h3>
+            <p class="settings-hint">Desmarca los tiempos que no quieras practicar.</p>
+            <div id="settingsTenseList" class="tense-filter-list" role="group" aria-label="Tiempos disponibles"></div>
+          </div>
+
+          <div class="settings-group">
+            <h3>Memoria de entrenamiento</h3>
+            <p>Reinicia los intervalos y el historial de respuestas.</p>
+            <button id="resetStats" type="button" class="danger-action">Restablecer estadísticas</button>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

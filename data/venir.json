@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "ven[ir]",
+  "translations": ["to come"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "venir"
+  },
+  "emoji": "🚶",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "veng[o]", "ru": "Я прихожу в офис рано утром.", "eng": "I come to the office early in the morning." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "vien[es]", "ru": "Ты приходишь на встречи вовремя.", "eng": "You come to meetings on time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "vien[e]", "ru": "Он приходит с позитивным настроем.", "eng": "He comes with a positive attitude." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ven[imos]", "ru": "Мы приходим на совещание по понедельникам.", "eng": "We come to the meeting on Mondays." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ven[ís]", "ru": "Вы приходите на тренировки вечером.", "eng": "You all come to practice in the evening." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "vien[en]", "ru": "Они приходят с новыми идеями.", "eng": "They come with new ideas." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "vin[e]", "ru": "Вчера я пришёл на созвон последним.", "eng": "Yesterday I came to the call last." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "vin[iste]", "ru": "Вчера ты пришёл на встречу пораньше.", "eng": "Yesterday you came to the meeting early." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "vin[o]", "ru": "Вчера он пришёл с готовым решением.", "eng": "Yesterday he came with a ready solution." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "vin[imos]", "ru": "Вчера мы пришли на офисный ивент вместе.", "eng": "Yesterday we came to the office event together." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "vin[isteis]", "ru": "Вчера вы пришли вместе с клиентом.", "eng": "Yesterday you all came along with the client." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "vin[ieron]", "ru": "Вчера они пришли на презентацию вовремя.", "eng": "Yesterday they came to the presentation on time." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "vendr[é]", "ru": "Завтра я приду в офис к семи.", "eng": "Tomorrow I will come to the office at seven." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "vendr[ás]", "ru": "Завтра ты придёшь к началу конференции.", "eng": "Tomorrow you will come for the start of the conference." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "vendr[á]", "ru": "Завтра он придёт с прототипом.", "eng": "Tomorrow he will come with the prototype." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "vendr[emos]", "ru": "Завтра мы придём поддержать команду.", "eng": "Tomorrow we will come to support the team." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "vendr[éis]", "ru": "Завтра вы придёте на финальный прогон.", "eng": "Tomorrow you all will come to the final run-through." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "vendr[án]", "ru": "Завтра они придут встречать гостей.", "eng": "Tomorrow they will come to welcome the guests." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "ven[ía]", "ru": "Раньше я приходил на работу на велосипеде.", "eng": "I used to come to work by bike." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "ven[ías]", "ru": "Раньше ты приходил к нам каждую субботу.", "eng": "You used to come to us every Saturday." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "ven[ía]", "ru": "Раньше он приходил первым в офис.", "eng": "He used to come to the office first." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "ven[íamos]", "ru": "Раньше мы приходили на совещания офлайн.", "eng": "We used to come to meetings in person." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ven[íais]", "ru": "Раньше вы приходили поздно вечером.", "eng": "You all used to come late in the evening." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "ven[ían]", "ru": "Раньше они приходили с большим энтузиазмом.", "eng": "They used to come with great enthusiasm." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] venido", "ru": "Я уже пришёл на встречу.", "eng": "I have already come to the meeting." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] venido", "ru": "Ты уже пришёл к стойке регистрации.", "eng": "You have already come to the registration desk." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] venido", "ru": "Он уже пришёл в переговорную.", "eng": "He has already come to the meeting room." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] venido", "ru": "Мы уже пришли на старт проекта.", "eng": "We have already come to the project kickoff." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] venido", "ru": "Вы уже пришли к стойке выдачи.", "eng": "You all have already come to the pickup desk." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] venido", "ru": "Они уже пришли в главный зал.", "eng": "They have already come to the main hall." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con venir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "v[en]", "ru": "Приходи к нам пораньше.", "eng": "Come to us a bit early." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "veng[a]", "ru": "Приходите, пожалуйста, к началу встречи.", "eng": "Please come for the start of the meeting." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "veng[amos]", "ru": "Давайте придём вместе на презентацию.", "eng": "Let's come together to the presentation." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "ven[id]", "ru": "Приходите, друзья, в главный зал.", "eng": "Come to the main hall, friends." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "veng[an]", "ru": "Приходите, коллеги, поддержать команду.", "eng": "Come support the team, colleagues." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con venir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no veng[as]", "ru": "Не приходи без подтверждения.", "eng": "Don't come without confirmation." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no veng[a]", "ru": "Пожалуйста, не приходите слишком поздно.", "eng": "Please don't come too late." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no veng[amos]", "ru": "Давайте не будем приходить без повестки.", "eng": "Let's not come without an agenda." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no veng[áis]", "ru": "Не приходите без пропуска.", "eng": "Don't come without your badge." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no veng[an]", "ru": "Не приходите без предварительного письма.", "eng": "Don't come without a prior note." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "veng[a]", "ru": "Важно, чтобы я пришёл вовремя.", "eng": "It is important that I come on time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "veng[as]", "ru": "Важно, чтобы ты пришёл на репетицию.", "eng": "It is important that you come to the rehearsal." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "veng[a]", "ru": "Важно, чтобы он пришёл подготовленным.", "eng": "It is important that he come prepared." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "veng[amos]", "ru": "Важно, чтобы мы пришли заранее.", "eng": "It is important that we come ahead of time." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "veng[áis]", "ru": "Важно, чтобы вы пришли к началу доклада.", "eng": "It is important that you all come for the start of the talk." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "veng[an]", "ru": "Важно, чтобы они пришли поддержать команду.", "eng": "It is important that they come to support the team." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] venido", "ru": "Жаль, что я уже пришёл раньше всех.", "eng": "It is a pity that I have already come before everyone." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] venido", "ru": "Жаль, что ты уже пришёл до объявления.", "eng": "It is a pity that you have already come before the announcement." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] venido", "ru": "Жаль, что он уже пришёл без команды.", "eng": "It is a pity that he has already come without the team." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] venido", "ru": "Жаль, что мы уже пришли без презентации.", "eng": "It is a pity that we have already come without the presentation." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] venido", "ru": "Жаль, что вы уже пришли без обновлений.", "eng": "It is a pity that you all have already come without the updates." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] venido", "ru": "Жаль, что они уже пришли без отчётов.", "eng": "It is a pity that they have already come without the reports." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for venir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "vin[iera]", "ru": "Если бы я пришёл пораньше.", "eng": "If I came earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "vin[ieras]", "ru": "Если бы ты пришёл на тренировку.", "eng": "If you came to the practice." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "vin[iera]", "ru": "Если бы он пришёл к началу встречи.", "eng": "If he came for the start of the meeting." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "vin[iéramos]", "ru": "Если бы мы пришли с командой раньше.", "eng": "If we came with the team earlier." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "vin[ierais]", "ru": "Если бы вы пришли подготовленными.", "eng": "If you all came prepared." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "vin[ieran]", "ru": "Если бы они пришли в полном составе.", "eng": "If they came in full force." }
+      ]
+    }
+  ]
+}

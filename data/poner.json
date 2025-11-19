@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "pon[er]",
+  "translations": ["to put", "to place"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "poner"
+  },
+  "emoji": "🧩",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pong[o]", "ru": "Я кладу документы в общий шкаф.", "eng": "I put the documents in the shared cabinet." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pon[es]", "ru": "Ты кладёшь ноутбук на зарядку.", "eng": "You put the laptop on charge." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pon[e]", "ru": "Он кладёт образцы на стол.", "eng": "He puts the samples on the table." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pon[emos]", "ru": "Мы кладём материалы в архив.", "eng": "We put the materials in the archive." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pon[éis]", "ru": "Вы кладёте бейджи в коробку после встречи.", "eng": "You all put the badges back in the box after the meeting." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pon[en]", "ru": "Они кладут наброски на доску.", "eng": "They put the drafts on the board." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pus[e]", "ru": "Вчера я положил образцы в холодильник.", "eng": "Yesterday I put the samples in the fridge." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pus[iste]", "ru": "Вчера ты положил проектор на место.", "eng": "Yesterday you put the projector back in place." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pus[o]", "ru": "Вчера он поставил подпись на договоре.", "eng": "Yesterday he put his signature on the contract." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pus[imos]", "ru": "Вчера мы поставили оборудование в новый зал.", "eng": "Yesterday we put the equipment in the new hall." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pus[isteis]", "ru": "Вчера вы поставили стулья по кругу.", "eng": "Yesterday you all put the chairs in a circle." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pus[ieron]", "ru": "Вчера они разместили стенды у входа.", "eng": "Yesterday they put the stands at the entrance." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pondr[é]", "ru": "Завтра я поставлю ноутбук на зарядку заранее.", "eng": "Tomorrow I will put the laptop on charge in advance." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pondr[ás]", "ru": "Завтра ты положишь материалы в папку.", "eng": "Tomorrow you will put the materials in the folder." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pondr[á]", "ru": "Завтра он поставит образцы на витрину.", "eng": "Tomorrow he will put the samples on display." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pondr[emos]", "ru": "Завтра мы разместим плакаты в холле.", "eng": "Tomorrow we will put the posters in the hall." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pondr[éis]", "ru": "Завтра вы поставите оборудование на сцену.", "eng": "Tomorrow you all will put the equipment on the stage." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pondr[án]", "ru": "Завтра они положат подарки на стол регистрации.", "eng": "Tomorrow they will put the gifts on the registration table." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pon[ía]", "ru": "Раньше я ставил оповещения на каждый дедлайн.", "eng": "I used to put reminders on every deadline." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pon[ías]", "ru": "Раньше ты ставил музыку на фоне во время работы.", "eng": "You used to put music in the background while working." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pon[ía]", "ru": "Раньше он наклеивал стикеры на каждый документ.", "eng": "He used to put stickers on every document." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pon[íamos]", "ru": "Раньше мы складывали результаты в одну папку.", "eng": "We used to put the results into one folder." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pon[íais]", "ru": "Раньше вы размещали оборудование вдоль стены.", "eng": "You all used to put the equipment along the wall." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pon[ían]", "ru": "Раньше они ставили задачи в таблицу вручную.", "eng": "They used to put the tasks into the spreadsheet manually." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] puesto", "ru": "Я уже положил ключи на ресепшен.", "eng": "I have already put the keys at reception." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] puesto", "ru": "Ты уже поставил подпись на листе.", "eng": "You have already put your signature on the sheet." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] puesto", "ru": "Он уже положил отчёт в папку клиента.", "eng": "He has already put the report into the client's folder." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] puesto", "ru": "Мы уже поставили оборудование на столы.", "eng": "We have already put the equipment on the tables." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] puesto", "ru": "Вы уже разместили все метки на карте.", "eng": "You all have already put all the markers on the map." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] puesto", "ru": "Они уже положили образцы в контейнер.", "eng": "They have already put the samples into the container." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con poner.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "p[on]", "ru": "Положи отчёт на стол руководителя.", "eng": "Put the report on the manager's desk." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "p[onga]", "ru": "Положите, пожалуйста, образцы в коробку.", "eng": "Please put the samples into the box." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pong[amos]", "ru": "Давайте положим новые каталоги на витрину.", "eng": "Let's put the new catalogs on display." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "p[oned]", "ru": "Положите бейджи в этот ящик.", "eng": "Put the badges in this drawer." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "pong[an]", "ru": "Положите, пожалуйста, документы в сейф.", "eng": "Please put the documents in the safe." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con poner.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no pong[as]", "ru": "Не клади оборудование на край стола.", "eng": "Don't put the equipment on the edge of the table." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no pong[a]", "ru": "Пожалуйста, не кладите документы в эту коробку.", "eng": "Please don't put the documents in this box." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no pong[amos]", "ru": "Давайте не будем класть папки в общий шкаф.", "eng": "Let's not put the folders in the shared cabinet." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no pong[áis]", "ru": "Не кладите планшеты на мокрый стол.", "eng": "Don't put the tablets on the wet table." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no pong[an]", "ru": "Не кладите образцы без маркировки.", "eng": "Don't put the samples without labels." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pong[a]", "ru": "Важно, чтобы я положил ключи на место.", "eng": "It is important that I put the keys back." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pong[as]", "ru": "Важно, чтобы ты положил отчёт в правильную папку.", "eng": "It is important that you put the report in the right folder." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pong[a]", "ru": "Важно, чтобы он положил подпись до обеда.", "eng": "It is important that he put his signature before lunch." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pong[amos]", "ru": "Важно, чтобы мы поставили оборудование на зарядку.", "eng": "It is important that we put the equipment on charge." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pong[áis]", "ru": "Важно, чтобы вы положили образцы в холодильник.", "eng": "It is important that you all put the samples in the fridge." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pong[an]", "ru": "Важно, чтобы они положили билеты в сейф.", "eng": "It is important that they put the tickets in the safe." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] puesto", "ru": "Жаль, что я уже положил файлы не туда.", "eng": "It is a pity that I have already put the files in the wrong place." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] puesto", "ru": "Жаль, что ты уже поставил подпись на черновике.", "eng": "It is a pity that you have already put your signature on the draft." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] puesto", "ru": "Жаль, что он уже положил образцы на солнце.", "eng": "It is a pity that he has already put the samples in the sun." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] puesto", "ru": "Жаль, что мы уже разместили стенды слишком близко.", "eng": "It is a pity that we have already put the stands too close." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] puesto", "ru": "Жаль, что вы уже поставили камеры не по плану.", "eng": "It is a pity that you all have already put the cameras off-plan." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] puesto", "ru": "Жаль, что они уже положили документы на пересылку.", "eng": "It is a pity that they have already put the documents for shipping." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for poner.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pus[iera]", "ru": "Если бы я поставил подпись вовремя.", "eng": "If only I put my signature on time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pus[ieras]", "ru": "Если бы ты положил образцы в холодильник.", "eng": "If you put the samples in the fridge." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pus[iera]", "ru": "Если бы он поставил оборудование ближе к сцене.", "eng": "If he put the equipment closer to the stage." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pus[iéramos]", "ru": "Если бы мы положили документы в сейф сразу.", "eng": "If we put the documents in the safe right away." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pus[ierais]", "ru": "Если бы вы положили макеты на витрину.", "eng": "If you all put the mockups on display." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pus[ieran]", "ru": "Если бы они положили брошюры на стойку информации.", "eng": "If they put the brochures on the info desk." }
+      ]
+    }
+  ]
+}

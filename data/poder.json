@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "pod[er]",
+  "translations": ["to be able to", "can"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "poder"
+  },
+  "emoji": "💪",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pued[o]", "ru": "Я могу закончить отчёт вовремя.", "eng": "I can finish the report on time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pued[es]", "ru": "Ты можешь подключиться к звонку.", "eng": "You can join the call." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pued[e]", "ru": "Он может решить задачу быстро.", "eng": "He can solve the task quickly." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pod[emos]", "ru": "Мы можем встретиться после обеда.", "eng": "We can meet after lunch." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pod[éis]", "ru": "Вы можете взять свободный день в пятницу.", "eng": "You all can take a day off on Friday." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pued[en]", "ru": "Они могут учиться удалённо.", "eng": "They can study remotely." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pud[e]", "ru": "Вчера я смог завершить миграцию.", "eng": "Yesterday I managed to finish the migration." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pud[iste]", "ru": "Вчера ты смог войти в систему без ошибок.", "eng": "Yesterday you managed to log in without errors." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pud[o]", "ru": "Вчера он смог починить сервер.", "eng": "Yesterday he managed to fix the server." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pud[imos]", "ru": "Вчера мы смогли выпустить обновление.", "eng": "Yesterday we managed to ship the update." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pud[isteis]", "ru": "Вчера вы смогли собрать отчёт вовремя.", "eng": "Yesterday you all managed to compile the report on time." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pud[ieron]", "ru": "Вчера они смогли договориться с партнёрами.", "eng": "Yesterday they managed to reach an agreement with the partners." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "podr[é]", "ru": "Завтра я смогу подписать контракт.", "eng": "Tomorrow I will be able to sign the contract." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "podr[ás]", "ru": "Завтра ты сможешь проверить устройство.", "eng": "Tomorrow you will be able to check the device." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "podr[á]", "ru": "Завтра он сможет ответить на вопросы.", "eng": "Tomorrow he will be able to answer the questions." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "podr[emos]", "ru": "Завтра мы сможем протестировать версию.", "eng": "Tomorrow we will be able to test the release." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "podr[éis]", "ru": "Завтра вы сможете открыть архив.", "eng": "Tomorrow you all will be able to open the archive." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "podr[án]", "ru": "Завтра они смогут презентовать решение.", "eng": "Tomorrow they will be able to present the solution." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pod[ía]", "ru": "Раньше я мог работать ночами.", "eng": "I used to be able to work at night." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pod[ías]", "ru": "Раньше ты мог учиться и работать одновременно.", "eng": "You used to be able to study and work at the same time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pod[ía]", "ru": "Раньше он мог писать код без перерывов.", "eng": "He used to be able to code without breaks." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pod[íamos]", "ru": "Раньше мы могли встречаться офлайн каждую неделю.", "eng": "We used to be able to meet offline every week." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pod[íais]", "ru": "Раньше вы могли запускать тесты вручную.", "eng": "You all used to be able to run tests manually." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pod[ían]", "ru": "Раньше они могли менять планы быстро.", "eng": "They used to be able to change plans quickly." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] podido", "ru": "Я уже смог восстановить доступ.", "eng": "I have already managed to restore access." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] podido", "ru": "Ты уже смог договориться с заказчиком.", "eng": "You have already managed to reach an agreement with the client." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] podido", "ru": "Он уже смог найти решение.", "eng": "He has already managed to find a solution." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] podido", "ru": "Мы уже смогли закончить спринт.", "eng": "We have already managed to finish the sprint." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] podido", "ru": "Вы уже смогли согласовать график.", "eng": "You all have already managed to align the schedule." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] podido", "ru": "Они уже смогли протестировать прототип.", "eng": "They have already managed to test the prototype." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con poder.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pued[e]", "ru": "Позволь себе минуту отдыха.", "eng": "Allow yourself a minute of rest." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "pued[a]", "ru": "Пожалуйста, позвольте команде высказаться.", "eng": "Please allow the team to speak." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pod[amos]", "ru": "Давайте сможем сделать это без спешки.", "eng": "Let's manage to do this without rushing." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pod[ed]", "ru": "Позвольте себе перерыв, друзья.", "eng": "Allow yourselves a break, friends." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "pued[an]", "ru": "Позвольте коллегам высказать идеи.", "eng": "Let the colleagues share their ideas." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con poder.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no pued[as]", "ru": "Не говори, что не можешь попробовать.", "eng": "Don't say you can't give it a try." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no pued[a]", "ru": "Пожалуйста, не утверждайте, что не можете помочь.", "eng": "Please don't claim that you can't help." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no pod[amos]", "ru": "Давайте не будем говорить, что мы не сможем.", "eng": "Let's not say that we won't be able to do it." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no pod[áis]", "ru": "Не говорите, что вы не сможете присутствовать.", "eng": "Don't say you all won't be able to attend." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no pued[an]", "ru": "Не говорите, что вы не сможете адаптироваться.", "eng": "Don't say you won't be able to adapt." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pued[a]", "ru": "Важно, чтобы я мог объяснить стратегию.", "eng": "It is important that I be able to explain the strategy." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pued[as]", "ru": "Важно, чтобы ты мог реагировать быстро.", "eng": "It is important that you be able to respond quickly." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pued[a]", "ru": "Важно, чтобы он мог работать автономно.", "eng": "It is important that he be able to work autonomously." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pod[amos]", "ru": "Важно, чтобы мы могли поддерживать ритм.", "eng": "It is important that we be able to maintain the pace." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pod[áis]", "ru": "Важно, чтобы вы могли выйти в прямой эфир.", "eng": "It is important that you all be able to go live." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pued[an]", "ru": "Важно, чтобы они могли сменить стратегию.", "eng": "It is important that they be able to switch strategy." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] podido", "ru": "Жаль, что я уже смог уехать.", "eng": "It is a pity that I have already been able to leave." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] podido", "ru": "Жаль, что ты уже смог отказаться от встречи.", "eng": "It is a pity that you have already been able to cancel the meeting." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] podido", "ru": "Жаль, что он уже смог закрыть проект.", "eng": "It is a pity that he has already been able to close the project." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] podido", "ru": "Жаль, что мы уже смогли закончить обсуждение.", "eng": "It is a pity that we have already been able to finish the discussion." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] podido", "ru": "Жаль, что вы уже смогли уехать домой.", "eng": "It is a pity that you all have already been able to go home." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] podido", "ru": "Жаль, что они уже смогли подать отчёт.", "eng": "It is a pity that they have already been able to file the report." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for poder.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "pud[iera]", "ru": "Если бы я мог поехать с вами.", "eng": "If I could go with you." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "pud[ieras]", "ru": "Если бы ты мог задержаться подольше.", "eng": "If you could stay a bit longer." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "pud[iera]", "ru": "Если бы он мог помочь сейчас.", "eng": "If he could help right now." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "pud[iéramos]", "ru": "Если бы мы могли ускорить процесс.", "eng": "If we could speed up the process." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "pud[ierais]", "ru": "Если бы вы могли остаться на встрече.", "eng": "If you all could stay for the meeting." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "pud[ieran]", "ru": "Если бы они могли выделить ресурсы.", "eng": "If they could allocate resources." }
+      ]
+    }
+  ]
+}

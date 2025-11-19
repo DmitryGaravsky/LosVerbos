@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "habl[ar]",
+  "translations": ["to speak"],
+  "metadata": {
+    "verbType": "regular",
+    "family": "-ar"
+  },
+  "emoji": "🗣️",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the regular -ar verb hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "habl[o]", "ru": "Я говорю по-испански.", "eng": "I speak Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[as]", "ru": "Ты говоришь по-испански.", "eng": "You speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "habl[a]", "ru": "Он/она говорит по-испански.", "eng": "He or she speaks Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "habl[amos]", "ru": "Мы говорим по-испански.", "eng": "We speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[áis]", "ru": "Вы говорите по-испански.", "eng": "You all speak Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "habl[an]", "ru": "Они говорят по-испански.", "eng": "They speak Spanish." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for the regular -ar verb hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "habl[é]", "ru": "Я говорил по-испански.", "eng": "I spoke Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[aste]", "ru": "Ты говорил по-испански.", "eng": "You spoke Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "habl[ó]", "ru": "Он/она говорил(а) по-испански.", "eng": "He or she spoke Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "habl[amos]", "ru": "Мы говорили по-испански.", "eng": "We spoke Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[asteis]", "ru": "Вы говорили по-испански.", "eng": "You all spoke Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "habl[aron]", "ru": "Они говорили по-испански.", "eng": "They spoke Spanish." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the regular -ar verb hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "hablar[é]", "ru": "Я буду говорить по-испански.", "eng": "I will speak Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "hablar[ás]", "ru": "Ты будешь говорить по-испански.", "eng": "You will speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "hablar[á]", "ru": "Он/она будет говорить по-испански.", "eng": "He or she will speak Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hablar[emos]", "ru": "Мы будем говорить по-испански.", "eng": "We will speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "hablar[éis]", "ru": "Вы будете говорить по-испански.", "eng": "You all will speak Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "hablar[án]", "ru": "Они будут говорить по-испански.", "eng": "They will speak Spanish." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for the regular -ar verb hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "habl[aba]", "ru": "Я обычно говорил по-испански.", "eng": "I used to speak Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[abas]", "ru": "Ты обычно говорил по-испански.", "eng": "You used to speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "habl[aba]", "ru": "Он/она обычно говорил(а) по-испански.", "eng": "He or she used to speak Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "habl[ábamos]", "ru": "Мы обычно говорили по-испански.", "eng": "We used to speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[abais]", "ru": "Вы обычно говорили по-испански.", "eng": "You all used to speak Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "habl[aban]", "ru": "Они обычно говорили по-испански.", "eng": "They used to speak Spanish." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] hablado", "ru": "Я уже поговорил по-испански.", "eng": "I have spoken Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] hablado", "ru": "Ты уже поговорил по-испански.", "eng": "You have spoken Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] hablado", "ru": "Он/она уже поговорил(а) по-испански.", "eng": "He or she has spoken Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] hablado", "ru": "Мы уже поговорили по-испански.", "eng": "We have spoken Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] hablado", "ru": "Вы уже поговорили по-испански.", "eng": "You all have spoken Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] hablado", "ru": "Они уже поговорили по-испански.", "eng": "They have spoken Spanish." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for hablar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[a]", "ru": "Говори по-испански.", "eng": "Speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "habl[e]", "ru": "Говорите по-испански, пожалуйста.", "eng": "Speak Spanish, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hablem[os]", "ru": "Давайте говорить по-испански.", "eng": "Let's speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[ad]", "ru": "Говорите по-испански.", "eng": "Speak Spanish, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "habl[en]", "ru": "Говорите по-испански.", "eng": "Speak Spanish, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for hablar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no habl[es]", "ru": "Не говори по-испански.", "eng": "Don't speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no habl[e]", "ru": "Не говорите по-испански, пожалуйста.", "eng": "Please don't speak Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no hablem[os]", "ru": "Давайте не будем говорить по-испански.", "eng": "Let's not speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no habl[éis]", "ru": "Не говорите по-испански.", "eng": "Don't speak Spanish, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no habl[en]", "ru": "Не говорите по-испански.", "eng": "Don't speak Spanish, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "habl[e]", "ru": "Важно, чтобы я говорил по-испански.", "eng": "It is important that I speak Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[es]", "ru": "Важно, чтобы ты говорил по-испански.", "eng": "It is important that you speak Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "habl[e]", "ru": "Важно, чтобы он/она говорил(а) по-испански.", "eng": "It is important that he or she speak Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "hablem[os]", "ru": "Важно, чтобы мы говорили по-испански.", "eng": "It is important that we speak Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[éis]", "ru": "Важно, чтобы вы говорили по-испански.", "eng": "It is important that you all speak Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "habl[en]", "ru": "Важно, чтобы они говорили по-испански.", "eng": "It is important that they speak Spanish." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] hablado", "ru": "Жаль, что я уже поговорил по-испански.", "eng": "It is a pity that I have already spoken Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] hablado", "ru": "Жаль, что ты уже поговорил по-испански.", "eng": "It is a pity that you have already spoken Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] hablado", "ru": "Жаль, что он/она уже поговорил(а) по-испански.", "eng": "It is a pity that he or she has already spoken Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] hablado", "ru": "Жаль, что мы уже поговорили по-испански.", "eng": "It is a pity that we have already spoken Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] hablado", "ru": "Жаль, что вы уже поговорили по-испански.", "eng": "It is a pity that you all have already spoken Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] hablado", "ru": "Жаль, что они уже поговорили по-испански.", "eng": "It is a pity that they have already spoken Spanish." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for hablar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "habl[ara]", "ru": "Если бы я говорил по-испански.", "eng": "If I spoke Spanish." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "habl[aras]", "ru": "Если бы ты говорил по-испански.", "eng": "If you spoke Spanish." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "habl[ara]", "ru": "Если бы он/она говорил(а) по-испански.", "eng": "If he or she spoke Spanish." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "habl[áramos]", "ru": "Если бы мы говорили по-испански.", "eng": "If we spoke Spanish." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "habl[arais]", "ru": "Если бы вы говорили по-испански.", "eng": "If you all spoke Spanish." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "habl[aran]", "ru": "Если бы они говорили по-испански.", "eng": "If they spoke Spanish." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "sal[ir]",
+  "translations": ["to leave", "to go out"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "salir"
+  },
+  "emoji": "🚪",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "salg[o]", "ru": "Я выхожу из офиса позже всех.", "eng": "I leave the office later than everyone." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sal[es]", "ru": "Ты выходишь на обед ровно в час.", "eng": "You go out for lunch right at one." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sal[e]", "ru": "Он выходит к клиентам на встречу.", "eng": "He goes out to meet the clients." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sal[imos]", "ru": "Мы выходим из переговорной вместе.", "eng": "We leave the meeting room together." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sal[ís]", "ru": "Вы выходите на перерыв раньше смены.", "eng": "You all go out for a break before the shift." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sal[en]", "ru": "Они выходят из офиса в шесть.", "eng": "They leave the office at six." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sal[í]", "ru": "Вчера я вышел из офиса позже восьми.", "eng": "Yesterday I left the office after eight." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sal[iste]", "ru": "Вчера ты вышел к клиенту прямо из переговорной.", "eng": "Yesterday you went out to the client straight from the meeting room." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sal[i]ó", "ru": "Вчера он вышел на сцену вовремя.", "eng": "Yesterday he went out on stage on time." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sal[imos]", "ru": "Вчера мы вышли на улицу обсудить план.", "eng": "Yesterday we went out to discuss the plan outside." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sal[isteis]", "ru": "Вчера вы вышли из офиса одновременно.", "eng": "Yesterday you all left the office at the same time." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sal[ieron]", "ru": "Вчера они вышли на перерыв позже остальных.", "eng": "Yesterday they went out for a break later than the others." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "saldr[é]", "ru": "Завтра я выйду к партнёрам лично.", "eng": "Tomorrow I will go out to the partners in person." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "saldr[ás]", "ru": "Завтра ты выйдешь из офиса пораньше.", "eng": "Tomorrow you will leave the office a bit earlier." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "saldr[á]", "ru": "Завтра он выйдет на сцену с презентацией.", "eng": "Tomorrow he will go out on stage with the presentation." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "saldr[emos]", "ru": "Завтра мы выйдем встречать делегацию.", "eng": "Tomorrow we will go out to welcome the delegation." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "saldr[éis]", "ru": "Завтра вы выйдете из офиса немедленно после совещания.", "eng": "Tomorrow you all will leave the office right after the meeting." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "saldr[án]", "ru": "Завтра они выйдут к прессе вместе с директором.", "eng": "Tomorrow they will go out to the press together with the director." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sal[ía]", "ru": "Раньше я выходил на вечерние смены.", "eng": "I used to go out for the evening shifts." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sal[ías]", "ru": "Раньше ты выходил из офиса позже всех.", "eng": "You used to leave the office later than everyone." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sal[ía]", "ru": "Раньше он выходил к прессе после каждой презентации.", "eng": "He used to go out to the press after every presentation." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sal[íamos]", "ru": "Раньше мы выходили на прогулку после обеда.", "eng": "We used to go out for a walk after lunch." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sal[íais]", "ru": "Раньше вы выходили из офиса вместе с клиентами.", "eng": "You all used to leave the office together with clients." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sal[ían]", "ru": "Раньше они выходили из здания одной группой.", "eng": "They used to go out of the building as one group." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] salido", "ru": "Я уже вышел на ресепшен.", "eng": "I have already gone out to reception." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] salido", "ru": "Ты уже вышел на свежий воздух.", "eng": "You have already gone out for fresh air." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] salido", "ru": "Он уже вышел из переговорной.", "eng": "He has already left the meeting room." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] salido", "ru": "Мы уже вышли встречать гостей.", "eng": "We have already gone out to welcome the guests." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] salido", "ru": "Вы уже вышли за кофе.", "eng": "You all have already gone out for coffee." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] salido", "ru": "Они уже вышли из здания.", "eng": "They have already left the building." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con salir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "s[al]", "ru": "Выйди к клиенту прямо сейчас.", "eng": "Go out to the client right now." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "s[alga]", "ru": "Выйдите, пожалуйста, встретить делегацию.", "eng": "Please go out to receive the delegation." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "salg[amos]", "ru": "Давайте выйдем прогуляться после совещания.", "eng": "Let's go out for a walk after the meeting." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "s[alid]", "ru": "Выходите на парковку сразу после звонка.", "eng": "Go out to the parking lot right after the call." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "salg[an]", "ru": "Выйдите, пожалуйста, на сцену, коллеги.", "eng": "Please go out on stage, colleagues." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con salir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no salg[as]", "ru": "Не выходи из офиса без пропуска.", "eng": "Don't leave the office without your badge." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no salg[a]", "ru": "Пожалуйста, не выходите до завершения собрания.", "eng": "Please don't go out before the meeting ends." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no salg[amos]", "ru": "Давайте не будем выходить до объявления.", "eng": "Let's not go out until the announcement." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no salg[áis]", "ru": "Не выходите раньше конца смены.", "eng": "Don't leave before the shift ends." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no salg[an]", "ru": "Не выходите без инструкций руководителя.", "eng": "Don't go out without the manager's instructions." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "salg[a]", "ru": "Важно, чтобы я вышел к прессе вовремя.", "eng": "It is important that I go out to the press on time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "salg[as]", "ru": "Важно, чтобы ты вышел на сцену уверенно.", "eng": "It is important that you go out on stage confidently." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "salg[a]", "ru": "Важно, чтобы он вышел к клиенту с решениями.", "eng": "It is important that he go out to the client with solutions." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "salg[amos]", "ru": "Важно, чтобы мы вышли на встречу вместе.", "eng": "It is important that we go out to the meeting together." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "salg[áis]", "ru": "Важно, чтобы вы вышли на площадку вовремя.", "eng": "It is important that you all go out to the venue on time." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "salg[an]", "ru": "Важно, чтобы они вышли к участникам с приветствием.", "eng": "It is important that they go out to greet the participants." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] salido", "ru": "Жаль, что я уже вышел из здания до объявления.", "eng": "It is a pity that I have already gone out of the building before the announcement." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] salido", "ru": "Жаль, что ты уже вышел из офиса без отчёта.", "eng": "It is a pity that you have already left the office without the report." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] salido", "ru": "Жаль, что он уже вышел к прессе без комментариев.", "eng": "It is a pity that he has already gone out to the press without comments." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] salido", "ru": "Жаль, что мы уже вышли из офиса до приезда гостей.", "eng": "It is a pity that we have already left the office before the guests arrived." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] salido", "ru": "Жаль, что вы уже вышли на улицу без курток.", "eng": "It is a pity that you all have already gone out without jackets." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] salido", "ru": "Жаль, что они уже ушли с мероприятия.", "eng": "It is a pity that they have already left the event." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for salir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "sal[iera]", "ru": "Если бы я выходил из офиса пораньше.", "eng": "If only I left the office earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "sal[ieras]", "ru": "Если бы ты выходил навстречу гостям чаще.", "eng": "If you went out to meet the guests more often." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "sal[iera]", "ru": "Если бы он выходил к прессе подготовленным.", "eng": "If he went out to the press prepared." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "sal[iéramos]", "ru": "Если бы мы выходили встречать делегацию всей командой.", "eng": "If we went out to welcome the delegation as a whole team." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "sal[ierais]", "ru": "Если бы вы выходили вовремя на презентации.", "eng": "If you all went out on time for the presentations." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "sal[ieran]", "ru": "Если бы они выходили к клиентам без задержек.", "eng": "If they went out to the clients without delay." }
+      ]
+    }
+  ]
+}

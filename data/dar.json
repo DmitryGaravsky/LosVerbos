@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "d[ar]",
+  "translations": ["to give"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "dar"
+  },
+  "emoji": "🎁",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "d[oy]", "ru": "Я даю тебе совет.", "eng": "I give you advice." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[as]", "ru": "Ты даёшь другу подарок.", "eng": "You give a friend a gift." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "d[a]", "ru": "Он даёт нам сигнал.", "eng": "He gives us a signal." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[amos]", "ru": "Мы даём команде обратную связь.", "eng": "We give the team feedback." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[áis]", "ru": "Вы даёте ответы на вопросы.", "eng": "You all give answers to the questions." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "d[an]", "ru": "Они дают пример для остальных.", "eng": "They give an example for the rest." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "d[i]", "ru": "Вчера я дал обещание.", "eng": "Yesterday I gave a promise." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[iste]", "ru": "Вчера ты дал адрес гостям.", "eng": "Yesterday you gave the guests the address." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "d[io]", "ru": "Вчера он дал интервью.", "eng": "Yesterday he gave an interview." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[imos]", "ru": "Вчера мы дали подробный отчёт.", "eng": "Yesterday we gave a detailed report." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[isteis]", "ru": "Вчера вы дали верные подсказки.", "eng": "Yesterday you all gave the right hints." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "d[ieron]", "ru": "Вчера они дали старт проекту.", "eng": "Yesterday they gave the project a start." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dar[é]", "ru": "Завтра я дам тебе ответ.", "eng": "Tomorrow I will give you an answer." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dar[ás]", "ru": "Завтра ты дашь презентацию.", "eng": "Tomorrow you will give a presentation." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dar[á]", "ru": "Завтра он даст комментарии.", "eng": "Tomorrow he will give comments." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dar[emos]", "ru": "Завтра мы дадим финальное слово.", "eng": "Tomorrow we will give the final word." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dar[éis]", "ru": "Завтра вы дадите советы новичкам.", "eng": "Tomorrow you all will give advice to the newcomers." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dar[án]", "ru": "Завтра они дадут старт кампании.", "eng": "Tomorrow they will give the campaign a start." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "d[aba]", "ru": "Раньше я давал уроки музыки.", "eng": "I used to give music lessons." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[abas]", "ru": "Раньше ты давал советы коллегам.", "eng": "You used to give advice to colleagues." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "d[aba]", "ru": "Раньше он давал интервью каждый месяц.", "eng": "He used to give an interview every month." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[ábamos]", "ru": "Раньше мы давали много шансов новичкам.", "eng": "We used to give many chances to rookies." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[abais]", "ru": "Раньше вы давали скидки клиентам.", "eng": "You all used to give discounts to clients." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "d[aban]", "ru": "Раньше они давали честные отзывы.", "eng": "They used to give honest reviews." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] dado", "ru": "Я уже дал согласие.", "eng": "I have already given my approval." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] dado", "ru": "Ты уже дал обратную связь.", "eng": "You have already given feedback." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] dado", "ru": "Он уже дал обещание вернуться.", "eng": "He has already given a promise to return." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] dado", "ru": "Мы уже дали инструкции.", "eng": "We have already given the instructions." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] dado", "ru": "Вы уже дали свои замечания.", "eng": "You all have already given your remarks." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] dado", "ru": "Они уже дали отчёт руководству.", "eng": "They have already given the report to management." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con dar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[a]", "ru": "Дай себе время.", "eng": "Give yourself time." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "d[é]", "ru": "Дайте, пожалуйста, знак.", "eng": "Give a signal, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[emos]", "ru": "Давайте дадим шанс новичку.", "eng": "Let's give the newcomer a chance." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[ad]", "ru": "Дайте поддержку другу.", "eng": "Give support to a friend." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "d[en]", "ru": "Дайте команде немного свободы.", "eng": "Give the team some freedom." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con dar.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no d[es]", "ru": "Не давай пустых обещаний.", "eng": "Don't give empty promises." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no d[é]", "ru": "Не давайте поспешных ответов, пожалуйста.", "eng": "Please don't give rushed answers." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no d[emos]", "ru": "Давайте не будем давать повода для споров.", "eng": "Let's not give reasons for arguments." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no d[éis]", "ru": "Не давайте ложных надежд.", "eng": "Don't give false hopes." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no d[en]", "ru": "Не давайте лишних комментариев.", "eng": "Don't give unnecessary comments." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "d[é]", "ru": "Важно, чтобы я дал честный ответ.", "eng": "It is important that I give an honest answer." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[es]", "ru": "Важно, чтобы ты дал поддержку.", "eng": "It is important that you give support." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "d[é]", "ru": "Важно, чтобы он дал пример.", "eng": "It is important that he give an example." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[emos]", "ru": "Важно, чтобы мы дали сигнал вовремя.", "eng": "It is important that we give a signal on time." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[éis]", "ru": "Важно, чтобы вы дали конструктивную критику.", "eng": "It is important that you all give constructive criticism." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "d[en]", "ru": "Важно, чтобы они дали поддержку проекту.", "eng": "It is important that they give support to the project." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] dado", "ru": "Жаль, что я уже дал ответ слишком быстро.", "eng": "It is a pity that I have already given an answer too quickly." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] dado", "ru": "Жаль, что ты уже дал согласие.", "eng": "It is a pity that you have already given your consent." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] dado", "ru": "Жаль, что он уже дал обещание.", "eng": "It is a pity that he has already given a promise." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] dado", "ru": "Жаль, что мы уже дали старт сигналу.", "eng": "It is a pity that we have already given the go-ahead signal." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] dado", "ru": "Жаль, что вы уже дали ответ клиенту.", "eng": "It is a pity that you all have already given the client an answer." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] dado", "ru": "Жаль, что они уже дали обещания.", "eng": "It is a pity that they have already given promises." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for dar.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "d[iera]", "ru": "Если бы я дал больше времени.", "eng": "If I gave more time." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[ieras]", "ru": "Если бы ты дал шанс всем.", "eng": "If you gave everyone a chance." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "d[iera]", "ru": "Если бы он дал больше поддержки.", "eng": "If he gave more support." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "d[iéramos]", "ru": "Если бы мы дали проекту ещё неделю.", "eng": "If we gave the project another week." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "d[ierais]", "ru": "Если бы вы дали честные советы.", "eng": "If you all gave honest advice." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "d[ieran]", "ru": "Если бы они дали нам знак.", "eng": "If they gave us a sign." }
+      ]
+    }
+  ]
+}

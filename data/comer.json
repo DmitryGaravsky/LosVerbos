@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "com[er]",
+  "translations": ["to eat"],
+  "metadata": {
+    "verbType": "regular",
+    "family": "-er"
+  },
+  "emoji": "🍽️",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for the regular -er verb comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "com[o]", "ru": "Я ем яблоко.", "eng": "I eat an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[es]", "ru": "Ты ешь яблоко.", "eng": "You eat an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "com[e]", "ru": "Он/она ест яблоко.", "eng": "He or she eats an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[emos]", "ru": "Мы едим яблоко.", "eng": "We eat an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "com[éis]", "ru": "Вы едите яблоко.", "eng": "You all eat an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "com[en]", "ru": "Они едят яблоко.", "eng": "They eat an apple." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Simple past tense (pretérito indefinido) for the regular -er verb comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "com[í]", "ru": "Я съел яблоко.", "eng": "I ate an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[iste]", "ru": "Ты съел яблоко.", "eng": "You ate an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "com[ió]", "ru": "Он/она съел(а) яблоко.", "eng": "He or she ate an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[imos]", "ru": "Мы съели яблоко.", "eng": "We ate an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "com[isteis]", "ru": "Вы съели яблоко.", "eng": "You all ate an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "com[ieron]", "ru": "Они съели яблоко.", "eng": "They ate an apple." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Simple future tense for the regular -er verb comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "comer[é]", "ru": "Я съем яблоко.", "eng": "I will eat an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "comer[ás]", "ru": "Ты съешь яблоко.", "eng": "You will eat an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "comer[á]", "ru": "Он/она съест яблоко.", "eng": "He or she will eat an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "comer[emos]", "ru": "Мы съедим яблоко.", "eng": "We will eat an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "comer[éis]", "ru": "Вы съедите яблоко.", "eng": "You all will eat an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "comer[án]", "ru": "Они съедят яблоко.", "eng": "They will eat an apple." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for the regular -er verb comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "com[ía]", "ru": "Я обычно ел яблоко.", "eng": "I used to eat an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[ías]", "ru": "Ты обычно ел яблоко.", "eng": "You used to eat an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "com[ía]", "ru": "Он/она обычно ел(а) яблоко.", "eng": "He or she used to eat an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[íamos]", "ru": "Мы обычно ели яблоко.", "eng": "We used to eat an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "com[íais]", "ru": "Вы обычно ели яблоко.", "eng": "You all used to eat an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "com[ían]", "ru": "Они обычно ели яблоко.", "eng": "They used to eat an apple." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] comido", "ru": "Я уже съел яблоко.", "eng": "I have eaten an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] comido", "ru": "Ты уже съел яблоко.", "eng": "You have eaten an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] comido", "ru": "Он/она уже съел(а) яблоко.", "eng": "He or she has eaten an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] comido", "ru": "Мы уже съели яблоко.", "eng": "We have eaten an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] comido", "ru": "Вы уже съели яблоко.", "eng": "You all have eaten an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] comido", "ru": "Они уже съели яблоко.", "eng": "They have eaten an apple." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Positive imperative forms for comer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[e]", "ru": "Ешь яблоко.", "eng": "Eat the apple." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "com[a]", "ru": "Съешьте яблоко, пожалуйста.", "eng": "Eat the apple, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[amos]", "ru": "Давайте съедим яблоко.", "eng": "Let's eat the apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "comed", "ru": "Ешьте яблоко.", "eng": "Eat the apple, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "com[an]", "ru": "Ешьте яблоко.", "eng": "Eat the apple, everyone." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Negative imperative forms for comer.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no com[as]", "ru": "Не ешь яблоко.", "eng": "Don't eat the apple." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no com[a]", "ru": "Не ешьте яблоко, пожалуйста.", "eng": "Please don't eat the apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no com[amos]", "ru": "Давайте не будем есть яблоко.", "eng": "Let's not eat the apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no com[áis]", "ru": "Не ешьте яблоко.", "eng": "Don't eat the apple, you all." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no com[an]", "ru": "Не ешьте яблоко.", "eng": "Don't eat the apple, everyone." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "com[a]", "ru": "Важно, чтобы я ел яблоко.", "eng": "It is important that I eat an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[as]", "ru": "Важно, чтобы ты ел яблоко.", "eng": "It is important that you eat an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "com[a]", "ru": "Важно, чтобы он/она ел(а) яблоко.", "eng": "It is important that he or she eat an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[amos]", "ru": "Важно, чтобы мы ели яблоко.", "eng": "It is important that we eat an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "com[áis]", "ru": "Важно, чтобы вы ели яблоко.", "eng": "It is important that you all eat an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "com[an]", "ru": "Важно, чтобы они ели яблоко.", "eng": "It is important that they eat an apple." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] comido", "ru": "Жаль, что я уже съел яблоко.", "eng": "It is a pity that I have already eaten an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] comido", "ru": "Жаль, что ты уже съел яблоко.", "eng": "It is a pity that you have already eaten an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] comido", "ru": "Жаль, что он/она уже съел(а) яблоко.", "eng": "It is a pity that he or she has already eaten an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] comido", "ru": "Жаль, что мы уже съели яблоко.", "eng": "It is a pity that we have already eaten an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] comido", "ru": "Жаль, что вы уже съели яблоко.", "eng": "It is a pity that you all have already eaten an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] comido", "ru": "Жаль, что они уже съели яблоко.", "eng": "It is a pity that they have already eaten an apple." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for comer.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "com[iera]", "ru": "Если бы я ел яблоко.", "eng": "If I ate an apple." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "com[ieras]", "ru": "Если бы ты ел яблоко.", "eng": "If you ate an apple." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "com[iera]", "ru": "Если бы он/она ел(а) яблоко.", "eng": "If he or she ate an apple." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "com[iéramos]", "ru": "Если бы мы ели яблоко.", "eng": "If we ate an apple." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "com[ierais]", "ru": "Если бы вы ели яблоко.", "eng": "If you all ate an apple." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "com[ieran]", "ru": "Если бы они ели яблоко.", "eng": "If they ate an apple." }
+      ]
+    }
+  ]
+}

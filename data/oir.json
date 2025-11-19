@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "o[ír]",
+  "translations": ["to hear"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "oir"
+  },
+  "emoji": "👂",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "oig[o]", "ru": "Я слышу уведомления даже без наушников.", "eng": "I hear the notifications even without headphones." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "oy[es]", "ru": "Ты слышишь шум из переговорной.", "eng": "You hear the noise from the meeting room." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "oy[e]", "ru": "Он слышит, как коллеги обсуждают проект.", "eng": "He hears the colleagues discussing the project." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "o[í]mos", "ru": "Мы слышим объявление о начале сессии.", "eng": "We hear the announcement about the session start." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "o[ís]", "ru": "Вы слышите музыку из холла.", "eng": "You all hear the music from the hall." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "oy[en]", "ru": "Они слышат сигнал окончания встречи.", "eng": "They hear the signal ending the meeting." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "o[í]", "ru": "Вчера я услышал новую идею команды.", "eng": "Yesterday I heard the team's new idea." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "o[íste]", "ru": "Вчера ты услышал объявление первым.", "eng": "Yesterday you heard the announcement first." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "oy[ó]", "ru": "Вчера он услышал звонок из соседнего офиса.", "eng": "Yesterday he heard the call from the next office." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "o[ímos]", "ru": "Вчера мы услышали важное замечание клиента.", "eng": "Yesterday we heard the client's important remark." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "o[ísteis]", "ru": "Вчера вы услышали новости одновременно.", "eng": "Yesterday you all heard the news at the same time." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "oy[eron]", "ru": "Вчера они услышали сигнал тревоги вовремя.", "eng": "Yesterday they heard the alarm signal in time." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "oir[é]", "ru": "Завтра я услышу твой отчёт на совещании.", "eng": "Tomorrow I will hear your report at the meeting." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "oir[ás]", "ru": "Завтра ты услышишь последние новости от руководства.", "eng": "Tomorrow you will hear the latest news from management." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "oir[á]", "ru": "Завтра он услышит обновления клиента.", "eng": "Tomorrow he will hear the client's updates." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "oir[emos]", "ru": "Завтра мы услышим результаты презентации.", "eng": "Tomorrow we will hear the presentation results." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "oir[éis]", "ru": "Завтра вы услышите решение жюри.", "eng": "Tomorrow you all will hear the jury's decision." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "oir[án]", "ru": "Завтра они услышат обратную связь клиентов.", "eng": "Tomorrow they will hear the clients' feedback." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "o[ía]", "ru": "Раньше я слышал каждую мелочь в студии.", "eng": "I used to hear every detail in the studio." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "o[ías]", "ru": "Раньше ты слышал шаги коллег за дверью.", "eng": "You used to hear the colleagues' footsteps by the door." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "o[ía]", "ru": "Раньше он слышал объявления на вокзале без усилий.", "eng": "He used to hear the station announcements effortlessly." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "o[íamos]", "ru": "Раньше мы слышали музыку из зала репетиций ежедневно.", "eng": "We used to hear the music from the rehearsal hall every day." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "o[íais]", "ru": "Раньше вы слышали новости только по радио.", "eng": "You all used to hear the news only on the radio." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "o[ían]", "ru": "Раньше они слышали сигналы старой системы.", "eng": "They used to hear the signals of the old system." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] oído", "ru": "Я уже услышал подтверждение клиента.", "eng": "I have already heard the client's confirmation." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] oído", "ru": "Ты уже услышал уведомление от системы.", "eng": "You have already heard the system notification." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] oído", "ru": "Он уже услышал комментарии руководителя.", "eng": "He has already heard the manager's comments." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] oído", "ru": "Мы уже услышали новые требования.", "eng": "We have already heard the new requirements." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] oído", "ru": "Вы уже услышали объявление о перерыве.", "eng": "You all have already heard the break announcement." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] oído", "ru": "Они уже услышали выводы аудиторов.", "eng": "They have already heard the auditors' conclusions." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con oír.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "oy[e]", "ru": "Слушай внимательно инструкцию.", "eng": "Hear the instructions carefully." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "oig[a]", "ru": "Послушайте, пожалуйста, что говорит клиент.", "eng": "Please hear what the client is saying." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "oig[amos]", "ru": "Давайте послушаем отзыв команды.", "eng": "Let's hear the team's feedback." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "o[íd]", "ru": "Слушайте объявление о старте.", "eng": "Hear the announcement about the start." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "oig[an]", "ru": "Послушайте предложения коллег.", "eng": "Hear your colleagues' proposals." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con oír.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no oig[as]", "ru": "Не слушай слухи без подтверждения.", "eng": "Don't hear rumors without confirmation." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no oig[a]", "ru": "Пожалуйста, не слушайте посторонние разговоры.", "eng": "Please don't hear unrelated conversations." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no oig[amos]", "ru": "Давайте не слушать шум, а сосредоточимся.", "eng": "Let's not hear the noise and focus instead." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no oig[áis]", "ru": "Не слушайте отвлекающие разговоры.", "eng": "Don't hear the distracting chatter." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no oig[an]", "ru": "Не слушайте догадки, лучше уточните факты.", "eng": "Don't hear speculations; verify the facts instead." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "oig[a]", "ru": "Важно, чтобы я услышал все детали обсуждения.", "eng": "It is important that I hear all the discussion details." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "oig[as]", "ru": "Важно, чтобы ты услышал сигнал вовремя.", "eng": "It is important that you hear the signal on time." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "oig[a]", "ru": "Важно, чтобы он услышал просьбу клиента.", "eng": "It is important that he hear the client's request." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "oig[amos]", "ru": "Важно, чтобы мы услышали обратную связь лично.", "eng": "It is important that we hear the feedback in person." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "oig[áis]", "ru": "Важно, чтобы вы услышали указания тренера.", "eng": "It is important that you all hear the coach's instructions." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "oig[an]", "ru": "Важно, чтобы они услышали аргументы обеих сторон.", "eng": "It is important that they hear both sides' arguments." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] oído", "ru": "Жаль, что я уже услышал новость от посторонних.", "eng": "It is a pity that I have already heard the news from outsiders." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] oído", "ru": "Жаль, что ты уже услышал информацию без контекста.", "eng": "It is a pity that you have already heard the information without context." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] oído", "ru": "Жаль, что он уже услышал замечание не напрямую.", "eng": "It is a pity that he has already heard the remark indirectly." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] oído", "ru": "Жаль, что мы уже услышали новость от конкурентов.", "eng": "It is a pity that we have already heard the news from competitors." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] oído", "ru": "Жаль, что вы уже услышали версию события из слухов.", "eng": "It is a pity that you all have already heard the rumor-based version." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] oído", "ru": "Жаль, что они уже услышали новости не от нас.", "eng": "It is a pity that they have already heard the news not from us." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for oír.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "oy[era]", "ru": "Если бы я слышал сигнал раньше.", "eng": "If only I heard the signal earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "oy[eras]", "ru": "Если бы ты слышал просьбу клиента.", "eng": "If you heard the client's request." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "oy[era]", "ru": "Если бы он слышал инструкцию внимательно.", "eng": "If he heard the instruction carefully." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "oy[éramos]", "ru": "Если бы мы слышали комментарии в прямом эфире.", "eng": "If we heard the comments live." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "oy[erais]", "ru": "Если бы вы слышали сигнал тревоги.", "eng": "If you all heard the alarm signal." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "oy[eran]", "ru": "Если бы они слышали объяснение полностью.", "eng": "If they heard the explanation fully." }
+      ]
+    }
+  ]
+}

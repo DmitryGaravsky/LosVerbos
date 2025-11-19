@@ -1,0 +1,160 @@
+{
+  "language": "es",
+  "infinitive": "dec[ir]",
+  "translations": ["to say", "to tell"],
+  "metadata": {
+    "verbType": "irregular",
+    "family": "decir"
+  },
+  "emoji": "💬",
+  "tenses": [
+    {
+      "id": "presente_indicativo",
+      "label": "Presente · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Presente",
+      "description": "Simple present tense for el verbo irregular decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dig[o]", "ru": "Я говорю правду.", "eng": "I tell the truth." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dic[es]", "ru": "Ты говоришь нужные слова.", "eng": "You say the right words." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dic[e]", "ru": "Он говорит, что всё готово.", "eng": "He says everything is ready." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dec[imos]", "ru": "Мы говорим на встрече каждую неделю.", "eng": "We speak at the meeting every week." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dec[ís]", "ru": "Вы говорите по очереди.", "eng": "You all speak in turn." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dic[en]", "ru": "Они говорят, что приедут поздно.", "eng": "They say they will arrive late." }
+      ]
+    },
+    {
+      "id": "preterito_indicativo",
+      "label": "Pretérito · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito",
+      "description": "Pretérito indefinido para decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dij[e]", "ru": "Вчера я сказал всё, что думал.", "eng": "Yesterday I said everything I thought." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dij[iste]", "ru": "Вчера ты сказал полезный совет.", "eng": "Yesterday you gave a helpful tip." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dij[o]", "ru": "Вчера он сказал, что задержится.", "eng": "Yesterday he said he would be late." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dij[imos]", "ru": "Вчера мы сказали спасибо всей команде.", "eng": "Yesterday we said thanks to the whole team." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dij[isteis]", "ru": "Вчера вы сказали клиентам правду.", "eng": "Yesterday you all told the clients the truth." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dij[eron]", "ru": "Вчера они сказали, что всё прошло отлично.", "eng": "Yesterday they said everything went great." }
+      ]
+    },
+    {
+      "id": "futuro_indicativo",
+      "label": "Futuro · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Futuro",
+      "description": "Futuro simple para decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dir[é]", "ru": "Завтра я скажу результаты.", "eng": "Tomorrow I will tell the results." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dir[ás]", "ru": "Завтра ты скажешь речь.", "eng": "Tomorrow you will deliver a speech." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dir[á]", "ru": "Завтра он скажет вступительное слово.", "eng": "Tomorrow he will say the opening words." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dir[emos]", "ru": "Завтра мы скажем окончательное решение.", "eng": "Tomorrow we will say the final decision." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dir[éis]", "ru": "Завтра вы скажете, как всё прошло.", "eng": "Tomorrow you all will say how it went." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dir[án]", "ru": "Завтра они скажут нам новости.", "eng": "Tomorrow they will tell us the news." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_indicativo",
+      "label": "Pretérito Imperfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect past tense for decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dec[ía]", "ru": "Раньше я часто говорил об этом.", "eng": "I used to talk about this often." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dec[ías]", "ru": "Раньше ты говорил мне истории.", "eng": "You used to tell me stories." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dec[ía]", "ru": "Раньше он говорил очень тихо.", "eng": "He used to speak very softly." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dec[íamos]", "ru": "Раньше мы говорили по вечерам на кухне.", "eng": "We used to talk in the evenings in the kitchen." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dec[íais]", "ru": "Раньше вы говорили без остановки.", "eng": "You all used to talk without stopping." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dec[ían]", "ru": "Раньше они говорили только по делу.", "eng": "They used to speak only to the point." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_compuesto",
+      "label": "Pretérito Perfecto · Indicativo",
+      "mood": "Indicativo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect (pretérito perfecto compuesto) for decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[e] dicho", "ru": "Я уже сказал свою точку зрения.", "eng": "I have already said my point of view." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[as] dicho", "ru": "Ты уже сказал им правду.", "eng": "You have already told them the truth." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[a] dicho", "ru": "Он уже сказал комментарий.", "eng": "He has already made his comment." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[emos] dicho", "ru": "Мы уже сказали инструкции.", "eng": "We have already given the instructions." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[abéis] dicho", "ru": "Вы уже сказали результаты.", "eng": "You all have already said the results." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[an] dicho", "ru": "Они уже сказали заключение.", "eng": "They have already stated the conclusion." }
+      ]
+    },
+    {
+      "id": "imperativo_positivo",
+      "label": "Imperativo Afirmativo",
+      "mood": "Imperativo",
+      "tense": "Afirmativo",
+      "description": "Mandatos afirmativos con decir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "d[i]", "ru": "Скажи правду сейчас.", "eng": "Tell the truth now." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "dig[a]", "ru": "Скажите, пожалуйста, своё мнение.", "eng": "Say your opinion, please." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dig[amos]", "ru": "Давайте скажем спасибо учителю.", "eng": "Let's say thank you to the teacher." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dec[id]", "ru": "Скажите друзьям хорошие новости.", "eng": "Tell the friends the good news." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "dig[an]", "ru": "Скажите команде, что всё готово.", "eng": "Tell the team that everything is ready." }
+      ]
+    },
+    {
+      "id": "imperativo_negativo",
+      "label": "Imperativo Negativo",
+      "mood": "Imperativo",
+      "tense": "Negativo",
+      "description": "Mandatos negativos con decir.",
+      "forms": [
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "no dig[as]", "ru": "Не говори лишних слов.", "eng": "Don't say extra words." },
+        { "person": 3, "number": "singular", "pronoun": "usted", "form": "no dig[a]", "ru": "Не говорите поспешных выводов, пожалуйста.", "eng": "Please don't say hasty conclusions." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "no dig[amos]", "ru": "Давайте не будем говорить об этом сейчас.", "eng": "Let's not talk about this now." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "no dig[áis]", "ru": "Не говорите ничего обидного.", "eng": "Don't say anything hurtful." },
+        { "person": 3, "number": "plural", "pronoun": "ustedes", "form": "no dig[an]", "ru": "Не говорите секретов посторонним.", "eng": "Don't tell secrets to strangers." }
+      ]
+    },
+    {
+      "id": "presente_subjuntivo",
+      "label": "Presente · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Presente",
+      "description": "Present subjunctive for decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dig[a]", "ru": "Важно, чтобы я сказал правду.", "eng": "It is important that I tell the truth." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dig[as]", "ru": "Важно, чтобы ты сказал точные данные.", "eng": "It is important that you say the accurate data." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dig[a]", "ru": "Важно, чтобы он сказал, что чувствует.", "eng": "It is important that he say what he feels." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dig[amos]", "ru": "Важно, чтобы мы сказали финальное слово.", "eng": "It is important that we say the final word." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dig[áis]", "ru": "Важно, чтобы вы сказали правдивую версию.", "eng": "It is important that you all tell the true version." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dig[an]", "ru": "Важно, чтобы они сказали свои идеи.", "eng": "It is important that they say their ideas." }
+      ]
+    },
+    {
+      "id": "preterito_perfecto_subjuntivo",
+      "label": "Pretérito Perfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Perfecto",
+      "description": "Present perfect subjunctive for decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "h[aya] dicho", "ru": "Жаль, что я уже сказал лишнее.", "eng": "It is a pity that I have already said too much." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "h[ayas] dicho", "ru": "Жаль, что ты уже сказал об этом всем.", "eng": "It is a pity that you have already told everyone about it." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "h[aya] dicho", "ru": "Жаль, что он уже сказал решение.", "eng": "It is a pity that he has already said the decision." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "h[ayamos] dicho", "ru": "Жаль, что мы уже сказали дату пресс-конференции.", "eng": "It is a pity that we have already said the press conference date." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "h[ayáis] dicho", "ru": "Жаль, что вы уже сказали секрет заранее.", "eng": "It is a pity that you all have already told the secret beforehand." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "h[ayan] dicho", "ru": "Жаль, что они уже сказали окончательный вердикт.", "eng": "It is a pity that they have already said the final verdict." }
+      ]
+    },
+    {
+      "id": "preterito_imperfecto_subjuntivo",
+      "label": "Pretérito Imperfecto · Subjuntivo",
+      "mood": "Subjuntivo",
+      "tense": "Pretérito Imperfecto",
+      "description": "Imperfect subjunctive for decir.",
+      "forms": [
+        { "person": 1, "number": "singular", "pronoun": "yo", "form": "dij[era]", "ru": "Если бы я сказал это раньше.", "eng": "If I said it earlier." },
+        { "person": 2, "number": "singular", "pronoun": "tú", "form": "dij[eras]", "ru": "Если бы ты сказал правду сразу.", "eng": "If you told the truth right away." },
+        { "person": 3, "number": "singular", "pronoun": "él / ella / usted", "form": "dij[era]", "ru": "Если бы он сказал нам план.", "eng": "If he told us the plan." },
+        { "person": 1, "number": "plural", "pronoun": "nosotros(as)", "form": "dij[éramos]", "ru": "Если бы мы сказали об этом команде.", "eng": "If we told the team about it." },
+        { "person": 2, "number": "plural", "pronoun": "vosotros(as)", "form": "dij[erais]", "ru": "Если бы вы сказали всё открыто.", "eng": "If you all said everything openly." },
+        { "person": 3, "number": "plural", "pronoun": "ellos(as) / ustedes", "form": "dij[eran]", "ru": "Если бы они сказали свои сомнения.", "eng": "If they told their doubts." }
+      ]
+    }
+  ]
+}
